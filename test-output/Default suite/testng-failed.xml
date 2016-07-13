@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.macys.BestSelling">
+        <methods>
+          <include name="best_selling_makeup_brushes"/>
+          <include name="best_selling_mascaras"/>
+          <include name="best_selling_eyelash_curlers"/>
+          <include name="best_selling_lipsticks"/>
+          <include name="beforeClass1"/>
+          <include name="best_selling_eyeliners"/>
+          <include name="best_selling_foundations_oily_skin"/>
+          <include name="best_selling_primers"/>
+          <include name="afterClass"/>
+          <include name="best_selling_foundations"/>
+          <include name="best_selling_foundations_dry_skin"/>
+          <include name="best_selling_index_page"/>
+        </methods>
+      </class> <!-- com.macys.BestSelling -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

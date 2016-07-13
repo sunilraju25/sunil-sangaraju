@@ -1,0 +1,1949 @@
+2016-07-04 16:40:17 INFO  Log:10 - Getting data from Excel
+2016-07-04 16:40:18 INFO  Log:10 - Pagename:best-selling-index
+Legacy URL:http://www.macys.com/m/best-selling-makeup/index
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/index
+2016-07-04 16:40:18 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-04 16:40:39 INFO  Log:10 - pageType:"ca-contenthubs"
+2016-07-04 16:40:51 INFO  Log:10 - pageId:"seobestsellingbeauty.lp"
+2016-07-04 16:41:03 INFO  Log:10 - categoryID:"lp"
+2016-07-04 16:41:03 INFO  Log:10 - Pagetype,PageID and Category ID validation success...
+2016-07-04 16:41:03 INFO  Log:10 - Comparing html contents...
+2016-07-04 16:46:46 INFO  Log:10 - Legacy contents=>[From fresh new shades to must-have basics, we’ve gathered
+our top picks in makeup, brushes and beauty brands. Discover
+best-selling favorites, go-to colors and formulas, and the best
+matches for your skin tone and skin type to transform any look!]
+2016-07-04 16:46:46 INFO  Log:10 - Heroku contents=>[From fresh new shades to must-have basics, we’ve gathered
+our top picks in makeup, brushes and beauty brands. Discover
+best-selling favorites, go-to colors and formulas, and the best
+matches for your skin tone and skin type to transform any look!]
+2016-07-04 16:46:46 INFO  Log:10 - reading the meta title
+2016-07-04 16:47:10 INFO  Log:10 - Validating the links in the page...
+2016-07-04 16:47:22 INFO  Log:10 - Getting links from page
+2016-07-04 16:47:22 INFO  Log:10 - /best-selling-makeup/best-selling-mascaras
+2016-07-04 16:47:22 INFO  Log:10 - /best-selling-makeup/best-selling-foundations
+2016-07-04 16:47:22 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-04 16:47:22 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-04 16:47:22 INFO  Log:10 - /best-selling-makeup/best-selling-lipsticks
+2016-07-04 16:47:23 INFO  Log:10 - /best-selling-makeup/best-selling-concealers
+2016-07-04 16:47:23 INFO  Log:10 - /best-selling-makeup/best-selling-eyeliners
+2016-07-04 16:47:23 INFO  Log:10 - /best-selling-makeup/best-selling-makeup-brushes
+2016-07-04 16:47:23 INFO  Log:10 - /best-selling-makeup/best-selling-bb-creams
+2016-07-04 16:47:23 INFO  Log:10 - /best-selling-makeup/best-selling-cc-creams
+2016-07-04 16:47:23 INFO  Log:10 - /best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-04 16:47:23 INFO  Log:10 - /best-selling-makeup/best-selling-eyelash-curlers
+2016-07-04 16:47:24 INFO  Log:10 - /best-selling-makeup/best-selling-primers
+2016-07-04 16:47:24 INFO  Log:10 - /best-selling-makeup/best-selling-bronzers
+2016-07-04 16:47:24 INFO  Log:10 - /best-selling-makeup/best-selling-beauty-brands
+2016-07-04 16:47:35 INFO  Log:10 - key=>BEST-SELLING CONCEALERS value=>/best-selling-makeup/best-selling-concealers
+2016-07-04 16:47:36 INFO  Log:10 - Writing BEST-SELLING CONCEALERS in Excel
+2016-07-04 16:47:36 INFO  Log:10 - Link rediretcion is success
+2016-07-04 16:47:36 INFO  Log:10 - key=>BEST-SELLING EYEBROW PENCILS value=>/best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-04 16:47:38 INFO  Log:10 - Writing BEST-SELLING EYEBROW PENCILS in Excel
+2016-07-04 16:47:38 INFO  Log:10 - Link rediretcion is success
+2016-07-04 16:47:38 INFO  Log:10 - key=>BEST-SELLING PRIMERS value=>/best-selling-makeup/best-selling-primers
+2016-07-04 16:47:39 INFO  Log:10 - Writing BEST-SELLING PRIMERS in Excel
+2016-07-04 16:47:39 INFO  Log:10 - Link rediretcion is success
+2016-07-04 16:47:39 INFO  Log:10 - key=>BEST-SELLING MAKEUP BRUSHES value=>/best-selling-makeup/best-selling-makeup-brushes
+2016-07-04 16:47:41 INFO  Log:10 - Writing BEST-SELLING MAKEUP BRUSHES in Excel
+2016-07-04 16:47:41 INFO  Log:10 - Link rediretcion is success
+2016-07-04 16:47:41 INFO  Log:10 - key=>BEST-SELLING BBS value=>/best-selling-makeup/best-selling-bb-creams
+2016-07-04 16:47:42 INFO  Log:10 - Writing BEST-SELLING BBS in Excel
+2016-07-04 16:47:42 INFO  Log:10 - Link redirection is not working
+2016-07-04 16:47:42 INFO  Log:10 - key=>BEST-SELLING CCS value=>/best-selling-makeup/best-selling-cc-creams
+2016-07-04 16:47:44 INFO  Log:10 - Writing BEST-SELLING CCS in Excel
+2016-07-04 16:47:44 INFO  Log:10 - Link redirection is not working
+2016-07-04 16:47:44 INFO  Log:10 - key=>BEST-SELLING FOUNDATIONS FOR DRY SKIN value=>/best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-04 16:47:45 INFO  Log:10 - Writing BEST-SELLING FOUNDATIONS FOR DRY SKIN in Excel
+2016-07-04 16:47:45 INFO  Log:10 - Link rediretcion is success
+2016-07-04 16:47:45 INFO  Log:10 - key=>BEST-SELLING BRONZERS value=>/best-selling-makeup/best-selling-bronzers
+2016-07-04 16:47:46 INFO  Log:10 - Writing BEST-SELLING BRONZERS in Excel
+2016-07-04 16:47:46 INFO  Log:10 - Link rediretcion is success
+2016-07-04 16:47:46 INFO  Log:10 - key=>BEST-SELLING LIPSTICKS value=>/best-selling-makeup/best-selling-lipsticks
+2016-07-04 16:47:48 INFO  Log:10 - Writing BEST-SELLING LIPSTICKS in Excel
+2016-07-04 16:47:48 INFO  Log:10 - Link rediretcion is success
+2016-07-04 16:47:48 INFO  Log:10 - key=>BEST-SELLING EYELASH CURLERS value=>/best-selling-makeup/best-selling-eyelash-curlers
+2016-07-04 16:47:49 INFO  Log:10 - Writing BEST-SELLING EYELASH CURLERS in Excel
+2016-07-04 16:47:49 INFO  Log:10 - Link rediretcion is success
+2016-07-04 16:47:49 INFO  Log:10 - key=>BEST-SELLING FOUNDATIONS FOR OILY SKIN value=>/best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-04 16:47:50 INFO  Log:10 - Writing BEST-SELLING FOUNDATIONS FOR OILY SKIN in Excel
+2016-07-04 16:47:50 INFO  Log:10 - Link rediretcion is success
+2016-07-04 16:47:50 INFO  Log:10 - key=>BEST-SELLING MASCARAS value=>/best-selling-makeup/best-selling-mascaras
+2016-07-04 16:47:52 INFO  Log:10 - Writing BEST-SELLING MASCARAS in Excel
+2016-07-04 16:47:52 INFO  Log:10 - Link rediretcion is success
+2016-07-04 16:47:52 INFO  Log:10 - key=>BEST-SELLING FOUNDATIONS value=>/best-selling-makeup/best-selling-foundations
+2016-07-04 16:47:53 INFO  Log:10 - Writing BEST-SELLING FOUNDATIONS in Excel
+2016-07-04 16:47:53 INFO  Log:10 - Link rediretcion is success
+2016-07-04 16:47:53 INFO  Log:10 - key=>BEST-SELLING EYELINERS value=>/best-selling-makeup/best-selling-eyeliners
+2016-07-04 16:47:55 INFO  Log:10 - Writing BEST-SELLING EYELINERS in Excel
+2016-07-04 16:47:55 INFO  Log:10 - Link rediretcion is success
+2016-07-04 16:47:55 INFO  Log:10 - key=>BEST-SELLING BEAUTY BRANDS value=>/best-selling-makeup/best-selling-beauty-brands
+2016-07-04 16:47:56 INFO  Log:10 - Writing BEST-SELLING BEAUTY BRANDS in Excel
+2016-07-04 16:47:56 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:33:27 INFO  Log:10 - Getting data from Excel
+2016-07-13 16:33:28 INFO  Log:10 - Pagename:best-selling-bronzers
+Legacy URL:http://www.macys.com/m/best-selling-makeup/best-selling-bronzers
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/best-selling-bronzers
+2016-07-13 16:33:28 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 16:33:53 INFO  Log:10 - pageType:"seo"
+2016-07-13 16:34:03 INFO  Log:10 - pageId:"seobestsellingbeauty.lp"
+2016-07-13 16:34:13 INFO  Log:10 - categoryID:"bronzers"
+2016-07-13 16:34:13 INFO  Log:10 - Pagetype,PageID and Category ID validation success...
+2016-07-13 16:34:13 INFO  Log:10 - Comparing html contents...
+2016-07-13 16:35:04 INFO  Log:10 - Legacy contents=>[Get your glow on. Add warmth to any
+look with one of our favorite bronzers., SHOP BRONZERS, Bring a beautiful radiance to your complexion with this translucent light bronzer. This prismatic formula gives a natural-looking energized glow to the skin., LIGHT BRONZERS, Make it matte. Get the perfect sun-kissed shade with this smooth bronzing powder, available in a variety of shades to match your skin tone., MATTE BRONZERS, Take contouring to the next level with our exclusive cream kit from Anastasia Beverly Hills. You’ll find creamy bronze colors for shadows, as well as illuminating shades for highlighting., CREAM BRONZERS]
+2016-07-13 16:35:04 INFO  Log:10 - Heroku contents=>[Get your glow on. Add warmth to any
+look with one of our favorite bronzers., SHOP BRONZERS, Bring a beautiful radiance to your complexion with this translucent light bronzer. This prismatic formula gives a natural-looking energized glow to the skin., LIGHT BRONZERS, Make it matte. Get the perfect sun-kissed shade with this smooth bronzing powder, available in a variety of shades to match your skin tone., MATTE BRONZERS, Take contouring to the next level with our exclusive cream kit from Anastasia Beverly Hills. You’ll find creamy bronze colors for shadows, as well as illuminating shades for highlighting., CREAM BRONZERS]
+2016-07-13 16:35:04 INFO  Log:10 - Compare html-success
+2016-07-13 16:35:04 INFO  Log:10 - reading the meta title
+2016-07-13 16:35:25 INFO  Log:10 - Validating the links in the page...
+2016-07-13 16:35:32 INFO  Log:10 - Getting links from page
+2016-07-13 16:35:32 INFO  Log:10 - /shop/featured/bronzer
+2016-07-13 16:35:33 INFO  Log:10 - /shop/featured/light-makeup-bronzer
+2016-07-13 16:35:33 INFO  Log:10 - /shop/featured/matte-bronzer
+2016-07-13 16:35:33 INFO  Log:10 - /shop/featured/cream-bronzer
+2016-07-13 16:35:33 INFO  Log:10 - /best-selling-makeup/index
+2016-07-13 16:35:33 INFO  Log:10 - /best-selling-makeup/best-selling-mascaras
+2016-07-13 16:35:34 INFO  Log:10 - /best-selling-makeup/best-selling-foundations
+2016-07-13 16:35:34 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 16:35:34 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 16:35:34 INFO  Log:10 - /best-selling-makeup/best-selling-lipsticks
+2016-07-13 16:35:34 INFO  Log:10 - /best-selling-makeup/best-selling-concealers
+2016-07-13 16:35:34 INFO  Log:10 - /best-selling-makeup/best-selling-eyeliners
+2016-07-13 16:35:35 INFO  Log:10 - /best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 16:35:35 INFO  Log:10 - /best-selling-makeup/best-selling-bbs
+2016-07-13 16:35:35 INFO  Log:10 - /best-selling-makeup/best-selling-ccs
+2016-07-13 16:35:35 INFO  Log:10 - /best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 16:35:35 INFO  Log:10 - /best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 16:35:35 INFO  Log:10 - /best-selling-makeup/best-selling-primers
+2016-07-13 16:35:36 INFO  Log:10 - /best-selling-makeup/best-selling-bronzers
+2016-07-13 16:35:36 INFO  Log:10 - /best-selling-makeup/best-selling-beauty-brands
+2016-07-13 16:35:48 INFO  Log:10 - key=>Best-Selling Lipsticks value=>/best-selling-makeup/best-selling-lipsticks
+2016-07-13 16:35:49 INFO  Log:10 - Writing Best-Selling Lipsticks in Excel
+2016-07-13 16:35:49 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:35:49 INFO  Log:10 - key=>LIGHT BRONZERS value=>/shop/featured/light-makeup-bronzer
+2016-07-13 16:35:51 INFO  Log:10 - Writing LIGHT BRONZERS in Excel
+2016-07-13 16:35:51 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:35:51 INFO  Log:10 - key=>Best-Selling Foundations for Dry Skin value=>/best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 16:35:52 INFO  Log:10 - Writing Best-Selling Foundations for Dry Skin in Excel
+2016-07-13 16:35:52 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:35:52 INFO  Log:10 - key=>Best-Selling Bronzers value=>/best-selling-makeup/best-selling-bronzers
+2016-07-13 16:35:53 INFO  Log:10 - Writing Best-Selling Bronzers in Excel
+2016-07-13 16:35:53 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:35:53 INFO  Log:10 - key=>Best-Selling Beauty Brands value=>/best-selling-makeup/best-selling-beauty-brands
+2016-07-13 16:35:55 INFO  Log:10 - Writing Best-Selling Beauty Brands in Excel
+2016-07-13 16:35:55 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:35:55 INFO  Log:10 - key=>Best-Selling Concealers value=>/best-selling-makeup/best-selling-concealers
+2016-07-13 16:35:56 INFO  Log:10 - Writing Best-Selling Concealers in Excel
+2016-07-13 16:35:56 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:35:56 INFO  Log:10 - key=>Best-Selling Eyeliners value=>/best-selling-makeup/best-selling-eyeliners
+2016-07-13 16:35:57 INFO  Log:10 - Writing Best-Selling Eyeliners in Excel
+2016-07-13 16:35:57 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:35:57 INFO  Log:10 - key=>Best-Selling Beauty Favorites value=>/best-selling-makeup/index
+2016-07-13 16:35:59 INFO  Log:10 - Writing Best-Selling Beauty Favorites in Excel
+2016-07-13 16:35:59 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:35:59 INFO  Log:10 - key=>Best-Selling Mascaras value=>/best-selling-makeup/best-selling-mascaras
+2016-07-13 16:36:00 INFO  Log:10 - Writing Best-Selling Mascaras in Excel
+2016-07-13 16:36:00 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:36:00 INFO  Log:10 - key=>Best-Selling Foundations value=>/best-selling-makeup/best-selling-foundations
+2016-07-13 16:36:01 INFO  Log:10 - Writing Best-Selling Foundations in Excel
+2016-07-13 16:36:01 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:36:01 INFO  Log:10 - key=>SHOP BRONZERS value=>/shop/featured/bronzer
+2016-07-13 16:36:03 INFO  Log:10 - Writing SHOP BRONZERS in Excel
+2016-07-13 16:36:03 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:36:03 INFO  Log:10 - key=>MATTE BRONZERS value=>/shop/featured/matte-bronzer
+2016-07-13 16:36:04 INFO  Log:10 - Writing MATTE BRONZERS in Excel
+2016-07-13 16:36:04 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:36:04 INFO  Log:10 - key=>Best-Selling Eyelash Curlers value=>/best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 16:36:05 INFO  Log:10 - Writing Best-Selling Eyelash Curlers in Excel
+2016-07-13 16:36:05 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:36:05 INFO  Log:10 - key=>Best-Selling Primers value=>/best-selling-makeup/best-selling-primers
+2016-07-13 16:36:07 INFO  Log:10 - Writing Best-Selling Primers in Excel
+2016-07-13 16:36:07 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:36:07 INFO  Log:10 - key=>CREAM BRONZERS value=>/shop/featured/cream-bronzer
+2016-07-13 16:36:08 INFO  Log:10 - Writing CREAM BRONZERS in Excel
+2016-07-13 16:36:08 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:36:08 INFO  Log:10 - key=>Best-Selling BBs value=>/best-selling-makeup/best-selling-bbs
+2016-07-13 16:36:09 INFO  Log:10 - Writing Best-Selling BBs in Excel
+2016-07-13 16:36:10 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:36:10 INFO  Log:10 - key=>Best-Selling CCs value=>/best-selling-makeup/best-selling-ccs
+2016-07-13 16:36:11 INFO  Log:10 - Writing Best-Selling CCs in Excel
+2016-07-13 16:36:11 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:36:11 INFO  Log:10 - key=>Best-Selling Makeup Brushes value=>/best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 16:36:12 INFO  Log:10 - Writing Best-Selling Makeup Brushes in Excel
+2016-07-13 16:36:12 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:36:12 INFO  Log:10 - key=>Best-Selling Eyebrow Pencils value=>/best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 16:36:14 INFO  Log:10 - Writing Best-Selling Eyebrow Pencils in Excel
+2016-07-13 16:36:14 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:36:14 INFO  Log:10 - key=>Best-Selling Foundations for Oily Skin value=>/best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 16:36:15 INFO  Log:10 - Writing Best-Selling Foundations for Oily Skin in Excel
+2016-07-13 16:36:15 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:36:15 INFO  Log:10 - Getting data from Excel
+2016-07-13 16:36:15 INFO  Log:10 - Pagename:best-selling-ccs
+Legacy URL:http://www.macys.com/m/best-selling-makeup/best-selling-ccs
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/best-selling-ccs
+2016-07-13 16:36:15 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 16:36:26 INFO  Log:10 - pageType:"seo"
+2016-07-13 16:36:38 INFO  Log:10 - pageId:"seobestsellingbeauty.lp"
+2016-07-13 16:36:47 INFO  Log:10 - categoryID:"cccreams"
+2016-07-13 16:36:47 INFO  Log:10 - Pagetype,PageID and Category ID validation success...
+2016-07-13 16:36:47 INFO  Log:10 - Comparing html contents...
+2016-07-13 16:37:13 INFO  Log:10 - Legacy contents=>[A complexion game changer. Love the benefits
+of BB creams? Check out our top picks in CC
+creams for extra color correcting and coverage., SHOP CC CREAMS, Multitasking to the max. This lightweight color-correcting cream boasts skin protection properties and helps to target skin concerns like redness, dullness and unevenness for a healthy glow., Makeup goes high tech. This innovative CC features neutralizing effects to keep skin hydrated and radiant all day long., A BB with a boost. Check out Smashbox’s BB favorite with added benefits that help to target dark spots and discoloration. Look for a wide range of shades to perfectly match your skin tone.]
+2016-07-13 16:37:13 INFO  Log:10 - Heroku contents=>[A complexion game changer. Love the benefits
+of BB creams? Check out our top picks in CC
+creams for extra color correcting and coverage., SHOP CC CREAMS, Multitasking to the max. This lightweight color-correcting cream boasts skin protection properties and helps to target skin concerns like redness, dullness and unevenness for a healthy glow., Makeup goes high tech. This innovative CC features neutralizing effects to keep skin hydrated and radiant all day long., A BB with a boost. Check out Smashbox’s BB favorite with added benefits that help to target dark spots and discoloration. Look for a wide range of shades to perfectly match your skin tone.]
+2016-07-13 16:37:13 INFO  Log:10 - Compare html-success
+2016-07-13 16:37:13 INFO  Log:10 - reading the meta title
+2016-07-13 16:37:29 INFO  Log:10 - Validating the links in the page...
+2016-07-13 16:37:36 INFO  Log:10 - Getting links from page
+2016-07-13 16:37:37 INFO  Log:10 - /shop/makeup-and-perfume/bb-cream-cc-cream/Skin_care_category,Sortby,Productsperpage/CC%20Cream,ORIGINAL,40?id=65110
+2016-07-13 16:37:37 INFO  Log:10 - /best-selling-makeup/index
+2016-07-13 16:37:37 INFO  Log:10 - /best-selling-makeup/best-selling-mascaras
+2016-07-13 16:37:37 INFO  Log:10 - /best-selling-makeup/best-selling-foundations
+2016-07-13 16:37:37 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 16:37:37 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 16:37:38 INFO  Log:10 - /best-selling-makeup/best-selling-lipsticks
+2016-07-13 16:37:38 INFO  Log:10 - /best-selling-makeup/best-selling-concealers
+2016-07-13 16:37:38 INFO  Log:10 - /best-selling-makeup/best-selling-eyeliners
+2016-07-13 16:37:38 INFO  Log:10 - /best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 16:37:38 INFO  Log:10 - /best-selling-makeup/best-selling-bbs
+2016-07-13 16:37:38 INFO  Log:10 - /best-selling-makeup/best-selling-ccs
+2016-07-13 16:37:39 INFO  Log:10 - /best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 16:37:39 INFO  Log:10 - /best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 16:37:39 INFO  Log:10 - /best-selling-makeup/best-selling-primers
+2016-07-13 16:37:39 INFO  Log:10 - /best-selling-makeup/best-selling-bronzers
+2016-07-13 16:37:39 INFO  Log:10 - /best-selling-makeup/best-selling-beauty-brands
+2016-07-13 16:37:52 INFO  Log:10 - key=>Best-Selling Lipsticks value=>/best-selling-makeup/best-selling-lipsticks
+2016-07-13 16:37:54 INFO  Log:10 - Writing Best-Selling Lipsticks in Excel
+2016-07-13 16:37:54 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:37:54 INFO  Log:10 - key=>Best-Selling Foundations for Dry Skin value=>/best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 16:37:55 INFO  Log:10 - Writing Best-Selling Foundations for Dry Skin in Excel
+2016-07-13 16:37:55 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:37:55 INFO  Log:10 - key=>Best-Selling Bronzers value=>/best-selling-makeup/best-selling-bronzers
+2016-07-13 16:37:56 INFO  Log:10 - Writing Best-Selling Bronzers in Excel
+2016-07-13 16:37:56 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:37:56 INFO  Log:10 - key=>Best-Selling Beauty Brands value=>/best-selling-makeup/best-selling-beauty-brands
+2016-07-13 16:37:58 INFO  Log:10 - Writing Best-Selling Beauty Brands in Excel
+2016-07-13 16:37:58 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:37:58 INFO  Log:10 - key=>Best-Selling Concealers value=>/best-selling-makeup/best-selling-concealers
+2016-07-13 16:37:59 INFO  Log:10 - Writing Best-Selling Concealers in Excel
+2016-07-13 16:37:59 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:37:59 INFO  Log:10 - key=>Best-Selling Eyeliners value=>/best-selling-makeup/best-selling-eyeliners
+2016-07-13 16:38:01 INFO  Log:10 - Writing Best-Selling Eyeliners in Excel
+2016-07-13 16:38:01 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:38:01 INFO  Log:10 - key=>Best-Selling Beauty Favorites value=>/best-selling-makeup/index
+2016-07-13 16:38:02 INFO  Log:10 - Writing Best-Selling Beauty Favorites in Excel
+2016-07-13 16:38:02 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:38:02 INFO  Log:10 - key=>Best-Selling Mascaras value=>/best-selling-makeup/best-selling-mascaras
+2016-07-13 16:38:03 INFO  Log:10 - Writing Best-Selling Mascaras in Excel
+2016-07-13 16:38:03 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:38:03 INFO  Log:10 - key=>Best-Selling Foundations value=>/best-selling-makeup/best-selling-foundations
+2016-07-13 16:38:05 INFO  Log:10 - Writing Best-Selling Foundations in Excel
+2016-07-13 16:38:05 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:38:05 INFO  Log:10 - key=>Best-Selling Eyelash Curlers value=>/best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 16:38:06 INFO  Log:10 - Writing Best-Selling Eyelash Curlers in Excel
+2016-07-13 16:38:06 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:38:06 INFO  Log:10 - key=>Best-Selling Primers value=>/best-selling-makeup/best-selling-primers
+2016-07-13 16:38:07 INFO  Log:10 - Writing Best-Selling Primers in Excel
+2016-07-13 16:38:07 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:38:07 INFO  Log:10 - key=>SHOP CC CREAMS value=>/shop/makeup-and-perfume/bb-cream-cc-cream/Skin_care_category,Sortby,Productsperpage/CC%20Cream,ORIGINAL,40?id=65110
+2016-07-13 16:38:09 INFO  Log:10 - Writing SHOP CC CREAMS in Excel
+2016-07-13 16:38:09 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:38:09 INFO  Log:10 - key=>Best-Selling BBs value=>/best-selling-makeup/best-selling-bbs
+2016-07-13 16:38:10 INFO  Log:10 - Writing Best-Selling BBs in Excel
+2016-07-13 16:38:10 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:38:10 INFO  Log:10 - key=>Best-Selling CCs value=>/best-selling-makeup/best-selling-ccs
+2016-07-13 16:38:12 INFO  Log:10 - Writing Best-Selling CCs in Excel
+2016-07-13 16:38:12 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:38:12 INFO  Log:10 - key=>Best-Selling Makeup Brushes value=>/best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 16:38:13 INFO  Log:10 - Writing Best-Selling Makeup Brushes in Excel
+2016-07-13 16:38:13 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:38:13 INFO  Log:10 - key=>Best-Selling Eyebrow Pencils value=>/best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 16:38:14 INFO  Log:10 - Writing Best-Selling Eyebrow Pencils in Excel
+2016-07-13 16:38:14 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:38:14 INFO  Log:10 - key=>Best-Selling Foundations for Oily Skin value=>/best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 16:38:16 INFO  Log:10 - Writing Best-Selling Foundations for Oily Skin in Excel
+2016-07-13 16:38:16 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:38:16 INFO  Log:10 - Getting data from Excel
+2016-07-13 16:38:16 INFO  Log:10 - Pagename:best-selling-concealers
+Legacy URL:http://www.macys.com/m/best-selling-makeup/best-selling-concealers
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/best-selling-concealers
+2016-07-13 16:38:16 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 16:38:27 INFO  Log:10 - pageType:"seo"
+2016-07-13 16:38:36 INFO  Log:10 - pageId:"seobestsellingbeauty.lp"
+2016-07-13 16:38:46 INFO  Log:10 - categoryID:"concealers"
+2016-07-13 16:38:46 INFO  Log:10 - Pagetype,PageID and Category ID validation success...
+2016-07-13 16:38:46 INFO  Log:10 - Comparing html contents...
+2016-07-13 16:39:09 INFO  Log:10 - Legacy contents=>[Banish blemishes and imperfections with the right
+concealers. We’ve rounded up our favorites for
+different types of coverage and skin concerns., SHOP CONCEALERS, Clinique Acne Solutions
+Clearing Concealer, Natural-looking coverage with an oil-free formula. This gentle concealer features medicated ingredients that may help to target acne and blemishes, and deliver a luminous finish., CONCEALERS FOR ACNE-PRONE SKIN, Dermablend Quick Fix
+Concealer SPF 30, Lightweight formula with long-lasting, full coverage. This blendable, buildable concealer can help to keep skin flawless from day to night., FULL-COVERAGE CONCEALERS]
+2016-07-13 16:39:09 INFO  Log:10 - Heroku contents=>[Banish blemishes and imperfections with the right
+concealers. We’ve rounded up our favorites for
+different types of coverage and skin concerns., SHOP CONCEALERS, Clinique Acne Solutions
+Clearing Concealer, Natural-looking coverage with an oil-free formula. This gentle concealer features medicated ingredients that may help to target acne and blemishes, and deliver a luminous finish., CONCEALERS FOR ACNE-PRONE SKIN, Dermablend Quick Fix
+Concealer SPF 30, Lightweight formula with long-lasting, full coverage. This blendable, buildable concealer can help to keep skin flawless from day to night., FULL-COVERAGE CONCEALERS]
+2016-07-13 16:39:09 INFO  Log:10 - Compare html-success
+2016-07-13 16:39:09 INFO  Log:10 - reading the meta title
+2016-07-13 16:39:31 INFO  Log:10 - Validating the links in the page...
+2016-07-13 16:39:39 INFO  Log:10 - Getting links from page
+2016-07-13 16:39:39 INFO  Log:10 - /shop/makeup-and-perfume/face-makeup/Face_category,Sortby,Productsperpage/Concealer,ORIGINAL,40?id=30521
+2016-07-13 16:39:40 INFO  Log:10 - /shop/featured/concealer-for-acne
+2016-07-13 16:39:40 INFO  Log:10 - /shop/featured
+2016-07-13 16:39:40 INFO  Log:10 - /best-selling-makeup/index
+2016-07-13 16:39:40 INFO  Log:10 - /best-selling-makeup/best-selling-mascaras
+2016-07-13 16:39:40 INFO  Log:10 - /best-selling-makeup/best-selling-foundations
+2016-07-13 16:39:41 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 16:39:41 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 16:39:41 INFO  Log:10 - /best-selling-makeup/best-selling-lipsticks
+2016-07-13 16:39:41 INFO  Log:10 - /best-selling-makeup/best-selling-concealers
+2016-07-13 16:39:41 INFO  Log:10 - /best-selling-makeup/best-selling-eyeliners
+2016-07-13 16:39:41 INFO  Log:10 - /best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 16:39:42 INFO  Log:10 - /best-selling-makeup/best-selling-bbs
+2016-07-13 16:39:42 INFO  Log:10 - /best-selling-makeup/best-selling-ccs
+2016-07-13 16:39:42 INFO  Log:10 - /best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 16:39:42 INFO  Log:10 - /best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 16:39:42 INFO  Log:10 - /best-selling-makeup/best-selling-primers
+2016-07-13 16:39:42 INFO  Log:10 - /best-selling-makeup/best-selling-bronzers
+2016-07-13 16:39:43 INFO  Log:10 - /best-selling-makeup/best-selling-beauty-brands
+2016-07-13 16:39:57 INFO  Log:10 - key=>Best-Selling Lipsticks value=>/best-selling-makeup/best-selling-lipsticks
+2016-07-13 16:39:59 INFO  Log:10 - Writing Best-Selling Lipsticks in Excel
+2016-07-13 16:39:59 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:39:59 INFO  Log:10 - key=>Best-Selling Foundations for Dry Skin value=>/best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 16:40:00 INFO  Log:10 - Writing Best-Selling Foundations for Dry Skin in Excel
+2016-07-13 16:40:00 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:40:00 INFO  Log:10 - key=>Best-Selling Bronzers value=>/best-selling-makeup/best-selling-bronzers
+2016-07-13 16:40:01 INFO  Log:10 - Writing Best-Selling Bronzers in Excel
+2016-07-13 16:40:01 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:40:01 INFO  Log:10 - key=>Best-Selling Beauty Brands value=>/best-selling-makeup/best-selling-beauty-brands
+2016-07-13 16:40:03 INFO  Log:10 - Writing Best-Selling Beauty Brands in Excel
+2016-07-13 16:40:03 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:40:03 INFO  Log:10 - key=>Best-Selling Concealers value=>/best-selling-makeup/best-selling-concealers
+2016-07-13 16:40:04 INFO  Log:10 - Writing Best-Selling Concealers in Excel
+2016-07-13 16:40:04 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:40:04 INFO  Log:10 - key=>Best-Selling Eyeliners value=>/best-selling-makeup/best-selling-eyeliners
+2016-07-13 16:40:06 INFO  Log:10 - Writing Best-Selling Eyeliners in Excel
+2016-07-13 16:40:06 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:40:06 INFO  Log:10 - key=>CONCEALERS FOR ACNE-PRONE SKIN value=>/shop/featured/concealer-for-acne
+2016-07-13 16:40:07 INFO  Log:10 - Writing CONCEALERS FOR ACNE-PRONE SKIN in Excel
+2016-07-13 16:40:07 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:40:07 INFO  Log:10 - key=>Best-Selling Beauty Favorites value=>/best-selling-makeup/index
+2016-07-13 16:40:09 INFO  Log:10 - Writing Best-Selling Beauty Favorites in Excel
+2016-07-13 16:40:09 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:40:09 INFO  Log:10 - key=>Best-Selling Mascaras value=>/best-selling-makeup/best-selling-mascaras
+2016-07-13 16:40:10 INFO  Log:10 - Writing Best-Selling Mascaras in Excel
+2016-07-13 16:40:10 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:40:10 INFO  Log:10 - key=>Best-Selling Foundations value=>/best-selling-makeup/best-selling-foundations
+2016-07-13 16:40:12 INFO  Log:10 - Writing Best-Selling Foundations in Excel
+2016-07-13 16:40:12 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:40:12 INFO  Log:10 - key=>FULL-COVERAGE CONCEALERS value=>/shop/featured
+2016-07-13 16:40:13 INFO  Log:10 - Writing FULL-COVERAGE CONCEALERS in Excel
+2016-07-13 16:40:13 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:40:13 INFO  Log:10 - key=>Best-Selling Eyelash Curlers value=>/best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 16:40:15 INFO  Log:10 - Writing Best-Selling Eyelash Curlers in Excel
+2016-07-13 16:40:15 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:40:15 INFO  Log:10 - key=>Best-Selling Primers value=>/best-selling-makeup/best-selling-primers
+2016-07-13 16:40:16 INFO  Log:10 - Writing Best-Selling Primers in Excel
+2016-07-13 16:40:16 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:40:16 INFO  Log:10 - key=>SHOP CONCEALERS value=>/shop/makeup-and-perfume/face-makeup/Face_category,Sortby,Productsperpage/Concealer,ORIGINAL,40?id=30521
+2016-07-13 16:40:17 INFO  Log:10 - Writing SHOP CONCEALERS in Excel
+2016-07-13 16:40:17 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:40:17 INFO  Log:10 - key=>Best-Selling BBs value=>/best-selling-makeup/best-selling-bbs
+2016-07-13 16:40:19 INFO  Log:10 - Writing Best-Selling BBs in Excel
+2016-07-13 16:40:19 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:40:19 INFO  Log:10 - key=>Best-Selling CCs value=>/best-selling-makeup/best-selling-ccs
+2016-07-13 16:40:20 INFO  Log:10 - Writing Best-Selling CCs in Excel
+2016-07-13 16:40:20 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:40:20 INFO  Log:10 - key=>Best-Selling Makeup Brushes value=>/best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 16:40:22 INFO  Log:10 - Writing Best-Selling Makeup Brushes in Excel
+2016-07-13 16:40:22 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:40:22 INFO  Log:10 - key=>Best-Selling Eyebrow Pencils value=>/best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 16:40:23 INFO  Log:10 - Writing Best-Selling Eyebrow Pencils in Excel
+2016-07-13 16:40:23 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:40:23 INFO  Log:10 - key=>Best-Selling Foundations for Oily Skin value=>/best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 16:40:25 INFO  Log:10 - Writing Best-Selling Foundations for Oily Skin in Excel
+2016-07-13 16:40:25 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:40:25 INFO  Log:10 - Getting data from Excel
+2016-07-13 16:40:25 INFO  Log:10 - Pagename:best-selling-eyebrow-pencils
+Legacy URL:http://www.macys.com/m/best-selling-makeup/best-selling-eyebrow-pencils
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 16:40:25 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 16:40:35 INFO  Log:10 - pageType:"seo"
+2016-07-13 16:40:45 INFO  Log:10 - pageId:"seobestsellingbeauty.lp"
+2016-07-13 16:40:54 INFO  Log:10 - categoryID:"eyebrowpencils"
+2016-07-13 16:40:54 INFO  Log:10 - Pagetype,PageID and Category ID validation success...
+2016-07-13 16:40:54 INFO  Log:10 - Comparing html contents...
+2016-07-13 16:41:16 INFO  Log:10 - Legacy contents=>[Define, fill in or shape. Here are great picks
+in eyebrow pencils to up your brow game., SHOP EYEBROW PENCILS, A super-slim pencil for precise, brow-like strokes. Create natural-looking brows with a mechanical pencil on one end and a spooley brush on the other end for blending. You’ll find a range of shades to match any hair color., Instant definition and highlight in one. This automatic brow pencil from Clinique features a longwearing formula in soft shades that perfectly complement blonde hair., BLONDE EYEBROW PENCILS, Fool-proof and waterproof. Get long-lasting wear with this unique, slant-tip pencil featuring a smudge- and fade-free formula., WATERPROOF EYEBROW PENCILS, Contour and groom brows with this subtle powder pencil. Pick a universal taupe pencil to blend in beautifully with brown hairs., BRUNETTE EYEBROW PENCILS]
+2016-07-13 16:41:16 INFO  Log:10 - Heroku contents=>[Define, fill in or shape. Here are great picks
+in eyebrow pencils to up your brow game., SHOP EYEBROW PENCILS, A super-slim pencil for precise, brow-like strokes. Create natural-looking brows with a mechanical pencil on one end and a spooley brush on the other end for blending. You’ll find a range of shades to match any hair color., Instant definition and highlight in one. This automatic brow pencil from Clinique features a longwearing formula in soft shades that perfectly complement blonde hair., BLONDE EYEBROW PENCILS, Fool-proof and waterproof. Get long-lasting wear with this unique, slant-tip pencil featuring a smudge- and fade-free formula., WATERPROOF EYEBROW PENCILS, Contour and groom brows with this subtle powder pencil. Pick a universal taupe pencil to blend in beautifully with brown hairs., BRUNETTE EYEBROW PENCILS]
+2016-07-13 16:41:16 INFO  Log:10 - Compare html-success
+2016-07-13 16:41:16 INFO  Log:10 - reading the meta title
+2016-07-13 16:41:35 INFO  Log:10 - Validating the links in the page...
+2016-07-13 16:41:41 INFO  Log:10 - Getting links from page
+2016-07-13 16:41:41 INFO  Log:10 - /shop/featured/eyebrow-pencil
+2016-07-13 16:41:42 INFO  Log:10 - /shop/featured/blonde-eyebrow
+2016-07-13 16:41:42 INFO  Log:10 - /shop/featured/waterproof-eyebrow-pencil
+2016-07-13 16:41:42 INFO  Log:10 - /shop/featured/brunette-eyebrow-pencil
+2016-07-13 16:41:42 INFO  Log:10 - /best-selling-makeup/index
+2016-07-13 16:41:42 INFO  Log:10 - /best-selling-makeup/best-selling-mascaras
+2016-07-13 16:41:42 INFO  Log:10 - /best-selling-makeup/best-selling-foundations
+2016-07-13 16:41:43 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 16:41:43 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 16:41:43 INFO  Log:10 - /best-selling-makeup/best-selling-lipsticks
+2016-07-13 16:41:43 INFO  Log:10 - /best-selling-makeup/best-selling-concealers
+2016-07-13 16:41:43 INFO  Log:10 - /best-selling-makeup/best-selling-eyeliners
+2016-07-13 16:41:43 INFO  Log:10 - /best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 16:41:44 INFO  Log:10 - /best-selling-makeup/best-selling-bbs
+2016-07-13 16:41:44 INFO  Log:10 - /best-selling-makeup/best-selling-ccs
+2016-07-13 16:41:44 INFO  Log:10 - /best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 16:41:44 INFO  Log:10 - /best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 16:41:44 INFO  Log:10 - /best-selling-makeup/best-selling-primers
+2016-07-13 16:41:44 INFO  Log:10 - /best-selling-makeup/best-selling-bronzers
+2016-07-13 16:41:44 INFO  Log:10 - /best-selling-makeup/best-selling-beauty-brands
+2016-07-13 16:41:57 INFO  Log:10 - key=>SHOP EYEBROW PENCILS value=>/shop/featured/eyebrow-pencil
+2016-07-13 16:41:58 INFO  Log:10 - Writing SHOP EYEBROW PENCILS in Excel
+2016-07-13 16:41:58 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:41:58 INFO  Log:10 - key=>Best-Selling Lipsticks value=>/best-selling-makeup/best-selling-lipsticks
+2016-07-13 16:42:00 INFO  Log:10 - Writing Best-Selling Lipsticks in Excel
+2016-07-13 16:42:00 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:42:00 INFO  Log:10 - key=>Best-Selling Foundations for Dry Skin value=>/best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 16:42:01 INFO  Log:10 - Writing Best-Selling Foundations for Dry Skin in Excel
+2016-07-13 16:42:01 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:42:01 INFO  Log:10 - key=>BRUNETTE EYEBROW PENCILS value=>/shop/featured/brunette-eyebrow-pencil
+2016-07-13 16:42:03 INFO  Log:10 - Writing BRUNETTE EYEBROW PENCILS in Excel
+2016-07-13 16:42:03 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:42:03 INFO  Log:10 - key=>Best-Selling Bronzers value=>/best-selling-makeup/best-selling-bronzers
+2016-07-13 16:42:04 INFO  Log:10 - Writing Best-Selling Bronzers in Excel
+2016-07-13 16:42:04 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:42:04 INFO  Log:10 - key=>Best-Selling Beauty Brands value=>/best-selling-makeup/best-selling-beauty-brands
+2016-07-13 16:42:06 INFO  Log:10 - Writing Best-Selling Beauty Brands in Excel
+2016-07-13 16:42:06 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:42:06 INFO  Log:10 - key=>Best-Selling Concealers value=>/best-selling-makeup/best-selling-concealers
+2016-07-13 16:42:08 INFO  Log:10 - Writing Best-Selling Concealers in Excel
+2016-07-13 16:42:08 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:42:08 INFO  Log:10 - key=>Best-Selling Eyeliners value=>/best-selling-makeup/best-selling-eyeliners
+2016-07-13 16:42:09 INFO  Log:10 - Writing Best-Selling Eyeliners in Excel
+2016-07-13 16:42:09 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:42:09 INFO  Log:10 - key=>Best-Selling Beauty Favorites value=>/best-selling-makeup/index
+2016-07-13 16:42:11 INFO  Log:10 - Writing Best-Selling Beauty Favorites in Excel
+2016-07-13 16:42:11 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:42:11 INFO  Log:10 - key=>Best-Selling Mascaras value=>/best-selling-makeup/best-selling-mascaras
+2016-07-13 16:42:12 INFO  Log:10 - Writing Best-Selling Mascaras in Excel
+2016-07-13 16:42:12 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:42:12 INFO  Log:10 - key=>Best-Selling Foundations value=>/best-selling-makeup/best-selling-foundations
+2016-07-13 16:42:14 INFO  Log:10 - Writing Best-Selling Foundations in Excel
+2016-07-13 16:42:14 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:42:14 INFO  Log:10 - key=>Best-Selling Eyelash Curlers value=>/best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 16:42:15 INFO  Log:10 - Writing Best-Selling Eyelash Curlers in Excel
+2016-07-13 16:42:15 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:42:15 INFO  Log:10 - key=>Best-Selling Primers value=>/best-selling-makeup/best-selling-primers
+2016-07-13 16:42:17 INFO  Log:10 - Writing Best-Selling Primers in Excel
+2016-07-13 16:42:17 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:42:17 INFO  Log:10 - key=>BLONDE EYEBROW PENCILS value=>/shop/featured/blonde-eyebrow
+2016-07-13 16:42:19 INFO  Log:10 - Writing BLONDE EYEBROW PENCILS in Excel
+2016-07-13 16:42:19 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:42:19 INFO  Log:10 - key=>WATERPROOF EYEBROW PENCILS value=>/shop/featured/waterproof-eyebrow-pencil
+2016-07-13 16:42:20 INFO  Log:10 - Writing WATERPROOF EYEBROW PENCILS in Excel
+2016-07-13 16:42:20 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:42:20 INFO  Log:10 - key=>Best-Selling BBs value=>/best-selling-makeup/best-selling-bbs
+2016-07-13 16:42:22 INFO  Log:10 - Writing Best-Selling BBs in Excel
+2016-07-13 16:42:22 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:42:22 INFO  Log:10 - key=>Best-Selling CCs value=>/best-selling-makeup/best-selling-ccs
+2016-07-13 16:42:23 INFO  Log:10 - Writing Best-Selling CCs in Excel
+2016-07-13 16:42:23 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:42:23 INFO  Log:10 - key=>Best-Selling Makeup Brushes value=>/best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 16:42:25 INFO  Log:10 - Writing Best-Selling Makeup Brushes in Excel
+2016-07-13 16:42:25 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:42:25 INFO  Log:10 - key=>Best-Selling Eyebrow Pencils value=>/best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 16:42:26 INFO  Log:10 - Writing Best-Selling Eyebrow Pencils in Excel
+2016-07-13 16:42:26 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:42:26 INFO  Log:10 - key=>Best-Selling Foundations for Oily Skin value=>/best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 16:42:28 INFO  Log:10 - Writing Best-Selling Foundations for Oily Skin in Excel
+2016-07-13 16:42:28 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:42:28 INFO  Log:10 - Getting data from Excel
+2016-07-13 16:42:28 INFO  Log:10 - Pagename:best-selling-eyelash-curlers
+Legacy URL:http://www.macys.com/m/best-selling-makeup/best-selling-eyelash-curlers
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 16:42:28 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 16:42:40 INFO  Log:10 - pageType:"seo"
+2016-07-13 16:42:52 INFO  Log:10 - pageId:"seobestsellingbeauty.lp"
+2016-07-13 16:43:10 INFO  Log:10 - categoryID:"eyelashcurlers"
+2016-07-13 16:43:10 INFO  Log:10 - Pagetype,PageID and Category ID validation success...
+2016-07-13 16:43:10 INFO  Log:10 - Comparing html contents...
+2016-07-13 16:43:29 INFO  Log:10 - Legacy contents=>[Start your new life together with a Macy's registry, complete with a Dream Fund Gift Card & lots other great perks., Simply select any item & send it as a gift via email. They'll love, change or exchange it—before it ships!, Start making your List, then share it with friends & family so you get exactly what you want., Let our stylists find the perfect gift for every occasion—it's fun, fast & free!, Buy your gift online & pick it up in store, get it there today with same-day delivery or send an e-Gift via email., Gift Cards ship for free, never expire & can be used online or in store.]
+2016-07-13 16:43:29 INFO  Log:10 - Heroku contents=>[Love look-at-me lashes? Accentuate your eyes
+and go for glam, curled lashes with our top
+eyelash curlers., SHOP EYELASH CURLERS, With its broad curved shape and edge-free design, this curler can catch lashes from the inner to outer corners in a single squeeze without pinching., Lift & curl. This unique easel-style eyelash curler from Laura Mercier applies just the right pressure to the lashes for the perfect curl and works for most eye shapes and sizes., Effortlessly lush curl. This best-selling Lancôme favorite delivers dramatically curled eyelashes with a no-slip silicone pad and a universal design that fits most eye shapes and types.]
+2016-07-13 16:43:29 INFO  Log:10 - Getting data from Excel
+2016-07-13 16:43:29 INFO  Log:10 - Pagename:best-selling-eyeliners
+Legacy URL:http://www.macys.com/m/best-selling-makeup/best-selling-eyeliners
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/best-selling-eyeliners
+2016-07-13 16:43:29 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 16:43:47 INFO  Log:10 - pageType:"seo"
+2016-07-13 16:43:47 INFO  Log:10 - Getting data from Excel
+2016-07-13 16:43:47 INFO  Log:10 - Pagename:best-selling-foundations
+Legacy URL:http://www.macys.com/m/best-selling-makeup/best-selling-foundations
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/best-selling-foundations
+2016-07-13 16:43:47 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 16:43:58 INFO  Log:10 - Getting data from Excel
+2016-07-13 16:43:58 INFO  Log:10 - Pagename:best-selling-foundations-for-dry-skin
+Legacy URL:http://www.macys.com/m/best-selling-makeup/best-selling-foundations-for-dry-skin
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 16:43:58 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 16:43:59 INFO  Log:10 - Getting data from Excel
+2016-07-13 16:43:59 INFO  Log:10 - Pagename:best-selling-foundations-for-oily-skin
+Legacy URL:http://www.macys.com/m/best-selling-makeup/best-selling-foundations-for-oily-skin
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 16:43:59 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 16:44:01 INFO  Log:10 - Getting data from Excel
+2016-07-13 16:44:01 INFO  Log:10 - Pagename:best-selling-index
+Legacy URL:http://www.macys.com/m/best-selling-makeup/index
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/index
+2016-07-13 16:44:01 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 16:44:02 INFO  Log:10 - Getting data from Excel
+2016-07-13 16:44:02 INFO  Log:10 - Pagename:best-selling-lipsticks
+Legacy URL:http://www.macys.com/m/best-selling-makeup/best-selling-lipsticks
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/best-selling-lipsticks
+2016-07-13 16:44:02 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 16:44:03 INFO  Log:10 - Getting data from Excel
+2016-07-13 16:44:03 INFO  Log:10 - Pagename:best-selling-makeup-brushes
+Legacy URL:http://www.macys.com/m/best-selling-makeup/best-selling-makeup-brushes
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 16:44:03 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 16:44:04 INFO  Log:10 - Getting data from Excel
+2016-07-13 16:44:04 INFO  Log:10 - Pagename:best-selling-mascaras
+Legacy URL:http://www.macys.com/m/best-selling-makeup/best-selling-mascaras
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/best-selling-mascaras
+2016-07-13 16:44:04 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 16:44:05 INFO  Log:10 - Getting data from Excel
+2016-07-13 16:44:05 INFO  Log:10 - Pagename:best-selling-primers
+Legacy URL:http://www.macys.com/m/best-selling-makeup/best-selling-primers
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/best-selling-primers
+2016-07-13 16:44:05 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 16:49:48 INFO  Log:10 - Getting data from Excel
+2016-07-13 16:49:48 INFO  Log:10 - Pagename:best-selling-bronzers
+Legacy URL:http://www.macys.com/m/best-selling-makeup/best-selling-bronzers
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/best-selling-bronzers
+2016-07-13 16:49:48 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 16:50:05 INFO  Log:10 - pageType:"seo"
+2016-07-13 16:50:12 INFO  Log:10 - pageId:"seobestsellingbeauty.lp"
+2016-07-13 16:50:20 INFO  Log:10 - categoryID:"bronzers"
+2016-07-13 16:50:20 INFO  Log:10 - Pagetype,PageID and Category ID validation success...
+2016-07-13 16:50:20 INFO  Log:10 - Comparing html contents...
+2016-07-13 16:51:16 INFO  Log:10 - Legacy contents=>[Get your glow on. Add warmth to any
+look with one of our favorite bronzers., SHOP BRONZERS, Bring a beautiful radiance to your complexion with this translucent light bronzer. This prismatic formula gives a natural-looking energized glow to the skin., LIGHT BRONZERS, Make it matte. Get the perfect sun-kissed shade with this smooth bronzing powder, available in a variety of shades to match your skin tone., MATTE BRONZERS, Take contouring to the next level with our exclusive cream kit from Anastasia Beverly Hills. You’ll find creamy bronze colors for shadows, as well as illuminating shades for highlighting., CREAM BRONZERS]
+2016-07-13 16:51:16 INFO  Log:10 - Heroku contents=>[Get your glow on. Add warmth to any
+look with one of our favorite bronzers., SHOP BRONZERS, Bring a beautiful radiance to your complexion with this translucent light bronzer. This prismatic formula gives a natural-looking energized glow to the skin., LIGHT BRONZERS, Make it matte. Get the perfect sun-kissed shade with this smooth bronzing powder, available in a variety of shades to match your skin tone., MATTE BRONZERS, Take contouring to the next level with our exclusive cream kit from Anastasia Beverly Hills. You’ll find creamy bronze colors for shadows, as well as illuminating shades for highlighting., CREAM BRONZERS]
+2016-07-13 16:51:16 INFO  Log:10 - Compare html-success
+2016-07-13 16:51:16 INFO  Log:10 - reading the meta title
+2016-07-13 16:51:30 INFO  Log:10 - Validating the links in the page...
+2016-07-13 16:51:35 INFO  Log:10 - Getting links from page
+2016-07-13 16:51:35 INFO  Log:10 - /shop/featured/bronzer
+2016-07-13 16:51:35 INFO  Log:10 - /shop/featured/light-makeup-bronzer
+2016-07-13 16:51:35 INFO  Log:10 - /shop/featured/matte-bronzer
+2016-07-13 16:51:35 INFO  Log:10 - /shop/featured/cream-bronzer
+2016-07-13 16:51:35 INFO  Log:10 - /best-selling-makeup/index
+2016-07-13 16:51:35 INFO  Log:10 - /best-selling-makeup/best-selling-mascaras
+2016-07-13 16:51:35 INFO  Log:10 - /best-selling-makeup/best-selling-foundations
+2016-07-13 16:51:35 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 16:51:35 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 16:51:35 INFO  Log:10 - /best-selling-makeup/best-selling-lipsticks
+2016-07-13 16:51:35 INFO  Log:10 - /best-selling-makeup/best-selling-concealers
+2016-07-13 16:51:35 INFO  Log:10 - /best-selling-makeup/best-selling-eyeliners
+2016-07-13 16:51:35 INFO  Log:10 - /best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 16:51:35 INFO  Log:10 - /best-selling-makeup/best-selling-bbs
+2016-07-13 16:51:35 INFO  Log:10 - /best-selling-makeup/best-selling-ccs
+2016-07-13 16:51:35 INFO  Log:10 - /best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 16:51:36 INFO  Log:10 - /best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 16:51:36 INFO  Log:10 - /best-selling-makeup/best-selling-primers
+2016-07-13 16:51:36 INFO  Log:10 - /best-selling-makeup/best-selling-bronzers
+2016-07-13 16:51:36 INFO  Log:10 - /best-selling-makeup/best-selling-beauty-brands
+2016-07-13 16:51:45 INFO  Log:10 - key=>Best-Selling Lipsticks value=>/best-selling-makeup/best-selling-lipsticks
+2016-07-13 16:51:47 INFO  Log:10 - Writing Best-Selling Lipsticks in Excel
+2016-07-13 16:51:47 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:51:47 INFO  Log:10 - key=>LIGHT BRONZERS value=>/shop/featured/light-makeup-bronzer
+2016-07-13 16:51:49 INFO  Log:10 - Writing LIGHT BRONZERS in Excel
+2016-07-13 16:51:49 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:51:49 INFO  Log:10 - key=>Best-Selling Foundations for Dry Skin value=>/best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 16:51:50 INFO  Log:10 - Writing Best-Selling Foundations for Dry Skin in Excel
+2016-07-13 16:51:50 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:51:50 INFO  Log:10 - key=>Best-Selling Bronzers value=>/best-selling-makeup/best-selling-bronzers
+2016-07-13 16:51:52 INFO  Log:10 - Writing Best-Selling Bronzers in Excel
+2016-07-13 16:51:52 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:51:52 INFO  Log:10 - key=>Best-Selling Beauty Brands value=>/best-selling-makeup/best-selling-beauty-brands
+2016-07-13 16:51:53 INFO  Log:10 - Writing Best-Selling Beauty Brands in Excel
+2016-07-13 16:51:53 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:51:53 INFO  Log:10 - key=>Best-Selling Concealers value=>/best-selling-makeup/best-selling-concealers
+2016-07-13 16:51:55 INFO  Log:10 - Writing Best-Selling Concealers in Excel
+2016-07-13 16:51:55 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:51:55 INFO  Log:10 - key=>Best-Selling Eyeliners value=>/best-selling-makeup/best-selling-eyeliners
+2016-07-13 16:51:57 INFO  Log:10 - Writing Best-Selling Eyeliners in Excel
+2016-07-13 16:51:57 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:51:57 INFO  Log:10 - key=>Best-Selling Beauty Favorites value=>/best-selling-makeup/index
+2016-07-13 16:51:58 INFO  Log:10 - Writing Best-Selling Beauty Favorites in Excel
+2016-07-13 16:51:58 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:51:58 INFO  Log:10 - key=>Best-Selling Mascaras value=>/best-selling-makeup/best-selling-mascaras
+2016-07-13 16:52:00 INFO  Log:10 - Writing Best-Selling Mascaras in Excel
+2016-07-13 16:52:00 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:52:00 INFO  Log:10 - key=>Best-Selling Foundations value=>/best-selling-makeup/best-selling-foundations
+2016-07-13 16:52:01 INFO  Log:10 - Writing Best-Selling Foundations in Excel
+2016-07-13 16:52:01 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:52:01 INFO  Log:10 - key=>SHOP BRONZERS value=>/shop/featured/bronzer
+2016-07-13 16:52:03 INFO  Log:10 - Writing SHOP BRONZERS in Excel
+2016-07-13 16:52:03 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:52:03 INFO  Log:10 - key=>MATTE BRONZERS value=>/shop/featured/matte-bronzer
+2016-07-13 16:52:04 INFO  Log:10 - Writing MATTE BRONZERS in Excel
+2016-07-13 16:52:04 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:52:04 INFO  Log:10 - key=>Best-Selling Eyelash Curlers value=>/best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 16:52:06 INFO  Log:10 - Writing Best-Selling Eyelash Curlers in Excel
+2016-07-13 16:52:06 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:52:06 INFO  Log:10 - key=>Best-Selling Primers value=>/best-selling-makeup/best-selling-primers
+2016-07-13 16:52:07 INFO  Log:10 - Writing Best-Selling Primers in Excel
+2016-07-13 16:52:07 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:52:07 INFO  Log:10 - key=>CREAM BRONZERS value=>/shop/featured/cream-bronzer
+2016-07-13 16:52:09 INFO  Log:10 - Writing CREAM BRONZERS in Excel
+2016-07-13 16:52:09 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:52:09 INFO  Log:10 - key=>Best-Selling BBs value=>/best-selling-makeup/best-selling-bbs
+2016-07-13 16:52:11 INFO  Log:10 - Writing Best-Selling BBs in Excel
+2016-07-13 16:52:11 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:52:11 INFO  Log:10 - key=>Best-Selling CCs value=>/best-selling-makeup/best-selling-ccs
+2016-07-13 16:52:12 INFO  Log:10 - Writing Best-Selling CCs in Excel
+2016-07-13 16:52:12 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:52:12 INFO  Log:10 - key=>Best-Selling Makeup Brushes value=>/best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 16:52:14 INFO  Log:10 - Writing Best-Selling Makeup Brushes in Excel
+2016-07-13 16:52:14 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:52:14 INFO  Log:10 - key=>Best-Selling Eyebrow Pencils value=>/best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 16:52:15 INFO  Log:10 - Writing Best-Selling Eyebrow Pencils in Excel
+2016-07-13 16:52:15 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:52:15 INFO  Log:10 - key=>Best-Selling Foundations for Oily Skin value=>/best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 16:52:17 INFO  Log:10 - Writing Best-Selling Foundations for Oily Skin in Excel
+2016-07-13 16:52:17 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:52:17 INFO  Log:10 - Getting data from Excel
+2016-07-13 16:52:17 INFO  Log:10 - Pagename:best-selling-ccs
+Legacy URL:http://www.macys.com/m/best-selling-makeup/best-selling-ccs
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/best-selling-ccs
+2016-07-13 16:52:17 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 16:52:28 INFO  Log:10 - pageType:"seo"
+2016-07-13 16:52:39 INFO  Log:10 - pageId:"seobestsellingbeauty.lp"
+2016-07-13 16:52:49 INFO  Log:10 - categoryID:"cccreams"
+2016-07-13 16:52:49 INFO  Log:10 - Pagetype,PageID and Category ID validation success...
+2016-07-13 16:52:49 INFO  Log:10 - Comparing html contents...
+2016-07-13 16:53:05 INFO  Log:10 - Legacy contents=>[A complexion game changer. Love the benefits
+of BB creams? Check out our top picks in CC
+creams for extra color correcting and coverage., SHOP CC CREAMS, Multitasking to the max. This lightweight color-correcting cream boasts skin protection properties and helps to target skin concerns like redness, dullness and unevenness for a healthy glow., Makeup goes high tech. This innovative CC features neutralizing effects to keep skin hydrated and radiant all day long., A BB with a boost. Check out Smashbox’s BB favorite with added benefits that help to target dark spots and discoloration. Look for a wide range of shades to perfectly match your skin tone.]
+2016-07-13 16:53:05 INFO  Log:10 - Heroku contents=>[A complexion game changer. Love the benefits
+of BB creams? Check out our top picks in CC
+creams for extra color correcting and coverage., SHOP CC CREAMS, Multitasking to the max. This lightweight color-correcting cream boasts skin protection properties and helps to target skin concerns like redness, dullness and unevenness for a healthy glow., Makeup goes high tech. This innovative CC features neutralizing effects to keep skin hydrated and radiant all day long., A BB with a boost. Check out Smashbox’s BB favorite with added benefits that help to target dark spots and discoloration. Look for a wide range of shades to perfectly match your skin tone.]
+2016-07-13 16:53:05 INFO  Log:10 - Compare html-success
+2016-07-13 16:53:05 INFO  Log:10 - reading the meta title
+2016-07-13 16:53:18 INFO  Log:10 - Validating the links in the page...
+2016-07-13 16:53:24 INFO  Log:10 - Getting links from page
+2016-07-13 16:53:24 INFO  Log:10 - /shop/makeup-and-perfume/bb-cream-cc-cream/Skin_care_category,Sortby,Productsperpage/CC%20Cream,ORIGINAL,40?id=65110
+2016-07-13 16:53:24 INFO  Log:10 - /best-selling-makeup/index
+2016-07-13 16:53:24 INFO  Log:10 - /best-selling-makeup/best-selling-mascaras
+2016-07-13 16:53:24 INFO  Log:10 - /best-selling-makeup/best-selling-foundations
+2016-07-13 16:53:24 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 16:53:24 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 16:53:24 INFO  Log:10 - /best-selling-makeup/best-selling-lipsticks
+2016-07-13 16:53:24 INFO  Log:10 - /best-selling-makeup/best-selling-concealers
+2016-07-13 16:53:24 INFO  Log:10 - /best-selling-makeup/best-selling-eyeliners
+2016-07-13 16:53:24 INFO  Log:10 - /best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 16:53:24 INFO  Log:10 - /best-selling-makeup/best-selling-bbs
+2016-07-13 16:53:24 INFO  Log:10 - /best-selling-makeup/best-selling-ccs
+2016-07-13 16:53:24 INFO  Log:10 - /best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 16:53:24 INFO  Log:10 - /best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 16:53:24 INFO  Log:10 - /best-selling-makeup/best-selling-primers
+2016-07-13 16:53:24 INFO  Log:10 - /best-selling-makeup/best-selling-bronzers
+2016-07-13 16:53:25 INFO  Log:10 - /best-selling-makeup/best-selling-beauty-brands
+2016-07-13 16:53:34 INFO  Log:10 - key=>Best-Selling Lipsticks value=>/best-selling-makeup/best-selling-lipsticks
+2016-07-13 16:53:35 INFO  Log:10 - Writing Best-Selling Lipsticks in Excel
+2016-07-13 16:53:35 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:53:35 INFO  Log:10 - key=>Best-Selling Foundations for Dry Skin value=>/best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 16:53:37 INFO  Log:10 - Writing Best-Selling Foundations for Dry Skin in Excel
+2016-07-13 16:53:37 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:53:37 INFO  Log:10 - key=>Best-Selling Bronzers value=>/best-selling-makeup/best-selling-bronzers
+2016-07-13 16:53:38 INFO  Log:10 - Writing Best-Selling Bronzers in Excel
+2016-07-13 16:53:38 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:53:38 INFO  Log:10 - key=>Best-Selling Beauty Brands value=>/best-selling-makeup/best-selling-beauty-brands
+2016-07-13 16:53:40 INFO  Log:10 - Writing Best-Selling Beauty Brands in Excel
+2016-07-13 16:53:40 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:53:40 INFO  Log:10 - key=>Best-Selling Concealers value=>/best-selling-makeup/best-selling-concealers
+2016-07-13 16:53:41 INFO  Log:10 - Writing Best-Selling Concealers in Excel
+2016-07-13 16:53:41 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:53:41 INFO  Log:10 - key=>Best-Selling Eyeliners value=>/best-selling-makeup/best-selling-eyeliners
+2016-07-13 16:53:43 INFO  Log:10 - Writing Best-Selling Eyeliners in Excel
+2016-07-13 16:53:43 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:53:43 INFO  Log:10 - key=>Best-Selling Beauty Favorites value=>/best-selling-makeup/index
+2016-07-13 16:53:44 INFO  Log:10 - Writing Best-Selling Beauty Favorites in Excel
+2016-07-13 16:53:44 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:53:44 INFO  Log:10 - key=>Best-Selling Mascaras value=>/best-selling-makeup/best-selling-mascaras
+2016-07-13 16:53:46 INFO  Log:10 - Writing Best-Selling Mascaras in Excel
+2016-07-13 16:53:46 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:53:46 INFO  Log:10 - key=>Best-Selling Foundations value=>/best-selling-makeup/best-selling-foundations
+2016-07-13 16:53:47 INFO  Log:10 - Writing Best-Selling Foundations in Excel
+2016-07-13 16:53:47 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:53:47 INFO  Log:10 - key=>Best-Selling Eyelash Curlers value=>/best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 16:53:49 INFO  Log:10 - Writing Best-Selling Eyelash Curlers in Excel
+2016-07-13 16:53:49 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:53:49 INFO  Log:10 - key=>Best-Selling Primers value=>/best-selling-makeup/best-selling-primers
+2016-07-13 16:53:50 INFO  Log:10 - Writing Best-Selling Primers in Excel
+2016-07-13 16:53:50 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:53:50 INFO  Log:10 - key=>SHOP CC CREAMS value=>/shop/makeup-and-perfume/bb-cream-cc-cream/Skin_care_category,Sortby,Productsperpage/CC%20Cream,ORIGINAL,40?id=65110
+2016-07-13 16:53:52 INFO  Log:10 - Writing SHOP CC CREAMS in Excel
+2016-07-13 16:53:52 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:53:52 INFO  Log:10 - key=>Best-Selling BBs value=>/best-selling-makeup/best-selling-bbs
+2016-07-13 16:53:53 INFO  Log:10 - Writing Best-Selling BBs in Excel
+2016-07-13 16:53:53 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:53:53 INFO  Log:10 - key=>Best-Selling CCs value=>/best-selling-makeup/best-selling-ccs
+2016-07-13 16:53:55 INFO  Log:10 - Writing Best-Selling CCs in Excel
+2016-07-13 16:53:55 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:53:55 INFO  Log:10 - key=>Best-Selling Makeup Brushes value=>/best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 16:53:56 INFO  Log:10 - Writing Best-Selling Makeup Brushes in Excel
+2016-07-13 16:53:56 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:53:56 INFO  Log:10 - key=>Best-Selling Eyebrow Pencils value=>/best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 16:53:58 INFO  Log:10 - Writing Best-Selling Eyebrow Pencils in Excel
+2016-07-13 16:53:58 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:53:58 INFO  Log:10 - key=>Best-Selling Foundations for Oily Skin value=>/best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 16:53:59 INFO  Log:10 - Writing Best-Selling Foundations for Oily Skin in Excel
+2016-07-13 16:53:59 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:53:59 INFO  Log:10 - Getting data from Excel
+2016-07-13 16:53:59 INFO  Log:10 - Pagename:best-selling-concealers
+Legacy URL:http://www.macys.com/m/best-selling-makeup/best-selling-concealers
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/best-selling-concealers
+2016-07-13 16:53:59 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 16:54:11 INFO  Log:10 - pageType:"seo"
+2016-07-13 16:54:22 INFO  Log:10 - pageId:"seobestsellingbeauty.lp"
+2016-07-13 16:54:33 INFO  Log:10 - categoryID:"concealers"
+2016-07-13 16:54:33 INFO  Log:10 - Pagetype,PageID and Category ID validation success...
+2016-07-13 16:54:33 INFO  Log:10 - Comparing html contents...
+2016-07-13 16:54:49 INFO  Log:10 - Legacy contents=>[Banish blemishes and imperfections with the right
+concealers. We’ve rounded up our favorites for
+different types of coverage and skin concerns., SHOP CONCEALERS, Clinique Acne Solutions
+Clearing Concealer, Natural-looking coverage with an oil-free formula. This gentle concealer features medicated ingredients that may help to target acne and blemishes, and deliver a luminous finish., CONCEALERS FOR ACNE-PRONE SKIN, Dermablend Quick Fix
+Concealer SPF 30, Lightweight formula with long-lasting, full coverage. This blendable, buildable concealer can help to keep skin flawless from day to night., FULL-COVERAGE CONCEALERS]
+2016-07-13 16:54:49 INFO  Log:10 - Heroku contents=>[Banish blemishes and imperfections with the right
+concealers. We’ve rounded up our favorites for
+different types of coverage and skin concerns., SHOP CONCEALERS, Clinique Acne Solutions
+Clearing Concealer, Natural-looking coverage with an oil-free formula. This gentle concealer features medicated ingredients that may help to target acne and blemishes, and deliver a luminous finish., CONCEALERS FOR ACNE-PRONE SKIN, Dermablend Quick Fix
+Concealer SPF 30, Lightweight formula with long-lasting, full coverage. This blendable, buildable concealer can help to keep skin flawless from day to night., FULL-COVERAGE CONCEALERS]
+2016-07-13 16:54:49 INFO  Log:10 - Compare html-success
+2016-07-13 16:54:49 INFO  Log:10 - reading the meta title
+2016-07-13 16:55:03 INFO  Log:10 - Validating the links in the page...
+2016-07-13 16:55:08 INFO  Log:10 - Getting links from page
+2016-07-13 16:55:09 INFO  Log:10 - /shop/makeup-and-perfume/face-makeup/Face_category,Sortby,Productsperpage/Concealer,ORIGINAL,40?id=30521
+2016-07-13 16:55:09 INFO  Log:10 - /shop/featured/concealer-for-acne
+2016-07-13 16:55:09 INFO  Log:10 - /shop/featured
+2016-07-13 16:55:09 INFO  Log:10 - /best-selling-makeup/index
+2016-07-13 16:55:09 INFO  Log:10 - /best-selling-makeup/best-selling-mascaras
+2016-07-13 16:55:09 INFO  Log:10 - /best-selling-makeup/best-selling-foundations
+2016-07-13 16:55:09 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 16:55:09 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 16:55:09 INFO  Log:10 - /best-selling-makeup/best-selling-lipsticks
+2016-07-13 16:55:09 INFO  Log:10 - /best-selling-makeup/best-selling-concealers
+2016-07-13 16:55:09 INFO  Log:10 - /best-selling-makeup/best-selling-eyeliners
+2016-07-13 16:55:09 INFO  Log:10 - /best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 16:55:09 INFO  Log:10 - /best-selling-makeup/best-selling-bbs
+2016-07-13 16:55:09 INFO  Log:10 - /best-selling-makeup/best-selling-ccs
+2016-07-13 16:55:09 INFO  Log:10 - /best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 16:55:09 INFO  Log:10 - /best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 16:55:09 INFO  Log:10 - /best-selling-makeup/best-selling-primers
+2016-07-13 16:55:09 INFO  Log:10 - /best-selling-makeup/best-selling-bronzers
+2016-07-13 16:55:09 INFO  Log:10 - /best-selling-makeup/best-selling-beauty-brands
+2016-07-13 16:55:19 INFO  Log:10 - key=>Best-Selling Lipsticks value=>/best-selling-makeup/best-selling-lipsticks
+2016-07-13 16:55:20 INFO  Log:10 - Writing Best-Selling Lipsticks in Excel
+2016-07-13 16:55:20 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:55:20 INFO  Log:10 - key=>Best-Selling Foundations for Dry Skin value=>/best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 16:55:22 INFO  Log:10 - Writing Best-Selling Foundations for Dry Skin in Excel
+2016-07-13 16:55:22 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:55:22 INFO  Log:10 - key=>Best-Selling Bronzers value=>/best-selling-makeup/best-selling-bronzers
+2016-07-13 16:55:23 INFO  Log:10 - Writing Best-Selling Bronzers in Excel
+2016-07-13 16:55:23 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:55:23 INFO  Log:10 - key=>Best-Selling Beauty Brands value=>/best-selling-makeup/best-selling-beauty-brands
+2016-07-13 16:55:25 INFO  Log:10 - Writing Best-Selling Beauty Brands in Excel
+2016-07-13 16:55:25 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:55:25 INFO  Log:10 - key=>Best-Selling Concealers value=>/best-selling-makeup/best-selling-concealers
+2016-07-13 16:55:26 INFO  Log:10 - Writing Best-Selling Concealers in Excel
+2016-07-13 16:55:26 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:55:26 INFO  Log:10 - key=>Best-Selling Eyeliners value=>/best-selling-makeup/best-selling-eyeliners
+2016-07-13 16:55:28 INFO  Log:10 - Writing Best-Selling Eyeliners in Excel
+2016-07-13 16:55:28 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:55:28 INFO  Log:10 - key=>CONCEALERS FOR ACNE-PRONE SKIN value=>/shop/featured/concealer-for-acne
+2016-07-13 16:55:29 INFO  Log:10 - Writing CONCEALERS FOR ACNE-PRONE SKIN in Excel
+2016-07-13 16:55:29 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:55:29 INFO  Log:10 - key=>Best-Selling Beauty Favorites value=>/best-selling-makeup/index
+2016-07-13 16:55:31 INFO  Log:10 - Writing Best-Selling Beauty Favorites in Excel
+2016-07-13 16:55:31 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:55:31 INFO  Log:10 - key=>Best-Selling Mascaras value=>/best-selling-makeup/best-selling-mascaras
+2016-07-13 16:55:32 INFO  Log:10 - Writing Best-Selling Mascaras in Excel
+2016-07-13 16:55:32 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:55:32 INFO  Log:10 - key=>Best-Selling Foundations value=>/best-selling-makeup/best-selling-foundations
+2016-07-13 16:55:34 INFO  Log:10 - Writing Best-Selling Foundations in Excel
+2016-07-13 16:55:34 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:55:34 INFO  Log:10 - key=>FULL-COVERAGE CONCEALERS value=>/shop/featured
+2016-07-13 16:55:36 INFO  Log:10 - Writing FULL-COVERAGE CONCEALERS in Excel
+2016-07-13 16:55:36 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:55:36 INFO  Log:10 - key=>Best-Selling Eyelash Curlers value=>/best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 16:55:37 INFO  Log:10 - Writing Best-Selling Eyelash Curlers in Excel
+2016-07-13 16:55:37 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:55:37 INFO  Log:10 - key=>Best-Selling Primers value=>/best-selling-makeup/best-selling-primers
+2016-07-13 16:55:39 INFO  Log:10 - Writing Best-Selling Primers in Excel
+2016-07-13 16:55:39 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:55:39 INFO  Log:10 - key=>SHOP CONCEALERS value=>/shop/makeup-and-perfume/face-makeup/Face_category,Sortby,Productsperpage/Concealer,ORIGINAL,40?id=30521
+2016-07-13 16:55:40 INFO  Log:10 - Writing SHOP CONCEALERS in Excel
+2016-07-13 16:55:40 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:55:40 INFO  Log:10 - key=>Best-Selling BBs value=>/best-selling-makeup/best-selling-bbs
+2016-07-13 16:55:42 INFO  Log:10 - Writing Best-Selling BBs in Excel
+2016-07-13 16:55:42 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:55:42 INFO  Log:10 - key=>Best-Selling CCs value=>/best-selling-makeup/best-selling-ccs
+2016-07-13 16:55:43 INFO  Log:10 - Writing Best-Selling CCs in Excel
+2016-07-13 16:55:43 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:55:43 INFO  Log:10 - key=>Best-Selling Makeup Brushes value=>/best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 16:55:45 INFO  Log:10 - Writing Best-Selling Makeup Brushes in Excel
+2016-07-13 16:55:45 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:55:45 INFO  Log:10 - key=>Best-Selling Eyebrow Pencils value=>/best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 16:55:46 INFO  Log:10 - Writing Best-Selling Eyebrow Pencils in Excel
+2016-07-13 16:55:46 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:55:46 INFO  Log:10 - key=>Best-Selling Foundations for Oily Skin value=>/best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 16:55:48 INFO  Log:10 - Writing Best-Selling Foundations for Oily Skin in Excel
+2016-07-13 16:55:48 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:55:48 INFO  Log:10 - Getting data from Excel
+2016-07-13 16:55:48 INFO  Log:10 - Pagename:best-selling-eyebrow-pencils
+Legacy URL:http://www.macys.com/m/best-selling-makeup/best-selling-eyebrow-pencils
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 16:55:48 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 16:56:00 INFO  Log:10 - pageType:"seo"
+2016-07-13 16:56:11 INFO  Log:10 - pageId:"seobestsellingbeauty.lp"
+2016-07-13 16:56:22 INFO  Log:10 - categoryID:"eyebrowpencils"
+2016-07-13 16:56:22 INFO  Log:10 - Pagetype,PageID and Category ID validation success...
+2016-07-13 16:56:22 INFO  Log:10 - Comparing html contents...
+2016-07-13 16:56:41 INFO  Log:10 - Legacy contents=>[Define, fill in or shape. Here are great picks
+in eyebrow pencils to up your brow game., SHOP EYEBROW PENCILS, A super-slim pencil for precise, brow-like strokes. Create natural-looking brows with a mechanical pencil on one end and a spooley brush on the other end for blending. You’ll find a range of shades to match any hair color., Instant definition and highlight in one. This automatic brow pencil from Clinique features a longwearing formula in soft shades that perfectly complement blonde hair., BLONDE EYEBROW PENCILS, Fool-proof and waterproof. Get long-lasting wear with this unique, slant-tip pencil featuring a smudge- and fade-free formula., WATERPROOF EYEBROW PENCILS, Contour and groom brows with this subtle powder pencil. Pick a universal taupe pencil to blend in beautifully with brown hairs., BRUNETTE EYEBROW PENCILS]
+2016-07-13 16:56:41 INFO  Log:10 - Heroku contents=>[Define, fill in or shape. Here are great picks
+in eyebrow pencils to up your brow game., SHOP EYEBROW PENCILS, A super-slim pencil for precise, brow-like strokes. Create natural-looking brows with a mechanical pencil on one end and a spooley brush on the other end for blending. You’ll find a range of shades to match any hair color., Instant definition and highlight in one. This automatic brow pencil from Clinique features a longwearing formula in soft shades that perfectly complement blonde hair., BLONDE EYEBROW PENCILS, Fool-proof and waterproof. Get long-lasting wear with this unique, slant-tip pencil featuring a smudge- and fade-free formula., WATERPROOF EYEBROW PENCILS, Contour and groom brows with this subtle powder pencil. Pick a universal taupe pencil to blend in beautifully with brown hairs., BRUNETTE EYEBROW PENCILS]
+2016-07-13 16:56:41 INFO  Log:10 - Compare html-success
+2016-07-13 16:56:41 INFO  Log:10 - reading the meta title
+2016-07-13 16:56:54 INFO  Log:10 - Validating the links in the page...
+2016-07-13 16:57:02 INFO  Log:10 - Getting links from page
+2016-07-13 16:57:02 INFO  Log:10 - /shop/featured/eyebrow-pencil
+2016-07-13 16:57:02 INFO  Log:10 - /shop/featured/blonde-eyebrow
+2016-07-13 16:57:02 INFO  Log:10 - /shop/featured/waterproof-eyebrow-pencil
+2016-07-13 16:57:02 INFO  Log:10 - /shop/featured/brunette-eyebrow-pencil
+2016-07-13 16:57:02 INFO  Log:10 - /best-selling-makeup/index
+2016-07-13 16:57:02 INFO  Log:10 - /best-selling-makeup/best-selling-mascaras
+2016-07-13 16:57:02 INFO  Log:10 - /best-selling-makeup/best-selling-foundations
+2016-07-13 16:57:02 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 16:57:02 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 16:57:02 INFO  Log:10 - /best-selling-makeup/best-selling-lipsticks
+2016-07-13 16:57:02 INFO  Log:10 - /best-selling-makeup/best-selling-concealers
+2016-07-13 16:57:02 INFO  Log:10 - /best-selling-makeup/best-selling-eyeliners
+2016-07-13 16:57:02 INFO  Log:10 - /best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 16:57:02 INFO  Log:10 - /best-selling-makeup/best-selling-bbs
+2016-07-13 16:57:02 INFO  Log:10 - /best-selling-makeup/best-selling-ccs
+2016-07-13 16:57:02 INFO  Log:10 - /best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 16:57:03 INFO  Log:10 - /best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 16:57:03 INFO  Log:10 - /best-selling-makeup/best-selling-primers
+2016-07-13 16:57:03 INFO  Log:10 - /best-selling-makeup/best-selling-bronzers
+2016-07-13 16:57:03 INFO  Log:10 - /best-selling-makeup/best-selling-beauty-brands
+2016-07-13 16:57:12 INFO  Log:10 - key=>SHOP EYEBROW PENCILS value=>/shop/featured/eyebrow-pencil
+2016-07-13 16:57:14 INFO  Log:10 - Writing SHOP EYEBROW PENCILS in Excel
+2016-07-13 16:57:14 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:57:14 INFO  Log:10 - key=>Best-Selling Lipsticks value=>/best-selling-makeup/best-selling-lipsticks
+2016-07-13 16:57:15 INFO  Log:10 - Writing Best-Selling Lipsticks in Excel
+2016-07-13 16:57:15 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:57:15 INFO  Log:10 - key=>Best-Selling Foundations for Dry Skin value=>/best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 16:57:17 INFO  Log:10 - Writing Best-Selling Foundations for Dry Skin in Excel
+2016-07-13 16:57:17 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:57:17 INFO  Log:10 - key=>BRUNETTE EYEBROW PENCILS value=>/shop/featured/brunette-eyebrow-pencil
+2016-07-13 16:57:18 INFO  Log:10 - Writing BRUNETTE EYEBROW PENCILS in Excel
+2016-07-13 16:57:18 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:57:18 INFO  Log:10 - key=>Best-Selling Bronzers value=>/best-selling-makeup/best-selling-bronzers
+2016-07-13 16:57:20 INFO  Log:10 - Writing Best-Selling Bronzers in Excel
+2016-07-13 16:57:20 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:57:20 INFO  Log:10 - key=>Best-Selling Beauty Brands value=>/best-selling-makeup/best-selling-beauty-brands
+2016-07-13 16:57:21 INFO  Log:10 - Writing Best-Selling Beauty Brands in Excel
+2016-07-13 16:57:21 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:57:21 INFO  Log:10 - key=>Best-Selling Concealers value=>/best-selling-makeup/best-selling-concealers
+2016-07-13 16:57:23 INFO  Log:10 - Writing Best-Selling Concealers in Excel
+2016-07-13 16:57:23 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:57:23 INFO  Log:10 - key=>Best-Selling Eyeliners value=>/best-selling-makeup/best-selling-eyeliners
+2016-07-13 16:57:24 INFO  Log:10 - Writing Best-Selling Eyeliners in Excel
+2016-07-13 16:57:24 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:57:24 INFO  Log:10 - key=>Best-Selling Beauty Favorites value=>/best-selling-makeup/index
+2016-07-13 16:57:26 INFO  Log:10 - Writing Best-Selling Beauty Favorites in Excel
+2016-07-13 16:57:26 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:57:26 INFO  Log:10 - key=>Best-Selling Mascaras value=>/best-selling-makeup/best-selling-mascaras
+2016-07-13 16:57:28 INFO  Log:10 - Writing Best-Selling Mascaras in Excel
+2016-07-13 16:57:28 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:57:28 INFO  Log:10 - key=>Best-Selling Foundations value=>/best-selling-makeup/best-selling-foundations
+2016-07-13 16:57:29 INFO  Log:10 - Writing Best-Selling Foundations in Excel
+2016-07-13 16:57:29 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:57:29 INFO  Log:10 - key=>Best-Selling Eyelash Curlers value=>/best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 16:57:31 INFO  Log:10 - Writing Best-Selling Eyelash Curlers in Excel
+2016-07-13 16:57:31 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:57:31 INFO  Log:10 - key=>Best-Selling Primers value=>/best-selling-makeup/best-selling-primers
+2016-07-13 16:57:32 INFO  Log:10 - Writing Best-Selling Primers in Excel
+2016-07-13 16:57:32 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:57:32 INFO  Log:10 - key=>BLONDE EYEBROW PENCILS value=>/shop/featured/blonde-eyebrow
+2016-07-13 16:57:34 INFO  Log:10 - Writing BLONDE EYEBROW PENCILS in Excel
+2016-07-13 16:57:34 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:57:34 INFO  Log:10 - key=>WATERPROOF EYEBROW PENCILS value=>/shop/featured/waterproof-eyebrow-pencil
+2016-07-13 16:57:35 INFO  Log:10 - Writing WATERPROOF EYEBROW PENCILS in Excel
+2016-07-13 16:57:35 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:57:35 INFO  Log:10 - key=>Best-Selling BBs value=>/best-selling-makeup/best-selling-bbs
+2016-07-13 16:57:37 INFO  Log:10 - Writing Best-Selling BBs in Excel
+2016-07-13 16:57:37 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:57:37 INFO  Log:10 - key=>Best-Selling CCs value=>/best-selling-makeup/best-selling-ccs
+2016-07-13 16:57:38 INFO  Log:10 - Writing Best-Selling CCs in Excel
+2016-07-13 16:57:38 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:57:38 INFO  Log:10 - key=>Best-Selling Makeup Brushes value=>/best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 16:57:40 INFO  Log:10 - Writing Best-Selling Makeup Brushes in Excel
+2016-07-13 16:57:40 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:57:40 INFO  Log:10 - key=>Best-Selling Eyebrow Pencils value=>/best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 16:57:41 INFO  Log:10 - Writing Best-Selling Eyebrow Pencils in Excel
+2016-07-13 16:57:41 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:57:41 INFO  Log:10 - key=>Best-Selling Foundations for Oily Skin value=>/best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 16:57:43 INFO  Log:10 - Writing Best-Selling Foundations for Oily Skin in Excel
+2016-07-13 16:57:43 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:57:43 INFO  Log:10 - Getting data from Excel
+2016-07-13 16:57:43 INFO  Log:10 - Pagename:best-selling-eyelash-curlers
+Legacy URL:http://www.macys.com/m/best-selling-makeup/best-selling-eyelash-curlers
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 16:57:43 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 16:57:58 INFO  Log:10 - pageType:"seo"
+2016-07-13 16:58:09 INFO  Log:10 - pageId:"seobestsellingbeauty.lp"
+2016-07-13 16:58:21 INFO  Log:10 - categoryID:"eyelashcurlers"
+2016-07-13 16:58:21 INFO  Log:10 - Pagetype,PageID and Category ID validation success...
+2016-07-13 16:58:21 INFO  Log:10 - Comparing html contents...
+2016-07-13 16:58:48 INFO  Log:10 - Legacy contents=>[Love look-at-me lashes? Accentuate your eyes
+and go for glam, curled lashes with our top
+eyelash curlers., SHOP EYELASH CURLERS, With its broad curved shape and edge-free design, this curler can catch lashes from the inner to outer corners in a single squeeze without pinching., Lift & curl. This unique easel-style eyelash curler from Laura Mercier applies just the right pressure to the lashes for the perfect curl and works for most eye shapes and sizes., Effortlessly lush curl. This best-selling Lancôme favorite delivers dramatically curled eyelashes with a no-slip silicone pad and a universal design that fits most eye shapes and types.]
+2016-07-13 16:58:48 INFO  Log:10 - Heroku contents=>[Love look-at-me lashes? Accentuate your eyes
+and go for glam, curled lashes with our top
+eyelash curlers., SHOP EYELASH CURLERS, With its broad curved shape and edge-free design, this curler can catch lashes from the inner to outer corners in a single squeeze without pinching., Lift & curl. This unique easel-style eyelash curler from Laura Mercier applies just the right pressure to the lashes for the perfect curl and works for most eye shapes and sizes., Effortlessly lush curl. This best-selling Lancôme favorite delivers dramatically curled eyelashes with a no-slip silicone pad and a universal design that fits most eye shapes and types.]
+2016-07-13 16:58:48 INFO  Log:10 - Compare html-success
+2016-07-13 16:58:48 INFO  Log:10 - reading the meta title
+2016-07-13 16:59:01 INFO  Log:10 - Validating the links in the page...
+2016-07-13 16:59:07 INFO  Log:10 - Getting links from page
+2016-07-13 16:59:07 INFO  Log:10 - /shop/featured/eyelash-curlers
+2016-07-13 16:59:07 INFO  Log:10 - /best-selling-makeup/index
+2016-07-13 16:59:07 INFO  Log:10 - /best-selling-makeup/best-selling-mascaras
+2016-07-13 16:59:08 INFO  Log:10 - /best-selling-makeup/best-selling-foundations
+2016-07-13 16:59:08 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 16:59:08 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 16:59:08 INFO  Log:10 - /best-selling-makeup/best-selling-lipsticks
+2016-07-13 16:59:08 INFO  Log:10 - /best-selling-makeup/best-selling-concealers
+2016-07-13 16:59:08 INFO  Log:10 - /best-selling-makeup/best-selling-eyeliners
+2016-07-13 16:59:08 INFO  Log:10 - /best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 16:59:08 INFO  Log:10 - /best-selling-makeup/best-selling-bbs
+2016-07-13 16:59:08 INFO  Log:10 - /best-selling-makeup/best-selling-ccs
+2016-07-13 16:59:08 INFO  Log:10 - /best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 16:59:08 INFO  Log:10 - /best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 16:59:08 INFO  Log:10 - /best-selling-makeup/best-selling-primers
+2016-07-13 16:59:08 INFO  Log:10 - /best-selling-makeup/best-selling-bronzers
+2016-07-13 16:59:08 INFO  Log:10 - /best-selling-makeup/best-selling-beauty-brands
+2016-07-13 16:59:17 INFO  Log:10 - key=>Best-Selling Lipsticks value=>/best-selling-makeup/best-selling-lipsticks
+2016-07-13 16:59:19 INFO  Log:10 - Writing Best-Selling Lipsticks in Excel
+2016-07-13 16:59:19 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:59:19 INFO  Log:10 - key=>Best-Selling Foundations for Dry Skin value=>/best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 16:59:21 INFO  Log:10 - Writing Best-Selling Foundations for Dry Skin in Excel
+2016-07-13 16:59:21 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:59:21 INFO  Log:10 - key=>Best-Selling Bronzers value=>/best-selling-makeup/best-selling-bronzers
+2016-07-13 16:59:22 INFO  Log:10 - Writing Best-Selling Bronzers in Excel
+2016-07-13 16:59:22 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:59:22 INFO  Log:10 - key=>Best-Selling Beauty Brands value=>/best-selling-makeup/best-selling-beauty-brands
+2016-07-13 16:59:24 INFO  Log:10 - Writing Best-Selling Beauty Brands in Excel
+2016-07-13 16:59:24 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:59:24 INFO  Log:10 - key=>SHOP EYELASH CURLERS value=>/shop/featured/eyelash-curlers
+2016-07-13 16:59:25 INFO  Log:10 - Writing SHOP EYELASH CURLERS in Excel
+2016-07-13 16:59:26 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:59:26 INFO  Log:10 - key=>Best-Selling Concealers value=>/best-selling-makeup/best-selling-concealers
+2016-07-13 16:59:27 INFO  Log:10 - Writing Best-Selling Concealers in Excel
+2016-07-13 16:59:27 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:59:27 INFO  Log:10 - key=>Best-Selling Eyeliners value=>/best-selling-makeup/best-selling-eyeliners
+2016-07-13 16:59:29 INFO  Log:10 - Writing Best-Selling Eyeliners in Excel
+2016-07-13 16:59:29 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:59:29 INFO  Log:10 - key=>Best-Selling Beauty Favorites value=>/best-selling-makeup/index
+2016-07-13 16:59:30 INFO  Log:10 - Writing Best-Selling Beauty Favorites in Excel
+2016-07-13 16:59:30 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:59:30 INFO  Log:10 - key=>Best-Selling Mascaras value=>/best-selling-makeup/best-selling-mascaras
+2016-07-13 16:59:32 INFO  Log:10 - Writing Best-Selling Mascaras in Excel
+2016-07-13 16:59:32 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:59:32 INFO  Log:10 - key=>Best-Selling Foundations value=>/best-selling-makeup/best-selling-foundations
+2016-07-13 16:59:34 INFO  Log:10 - Writing Best-Selling Foundations in Excel
+2016-07-13 16:59:34 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:59:34 INFO  Log:10 - key=>Best-Selling Eyelash Curlers value=>/best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 16:59:35 INFO  Log:10 - Writing Best-Selling Eyelash Curlers in Excel
+2016-07-13 16:59:35 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:59:35 INFO  Log:10 - key=>Best-Selling Primers value=>/best-selling-makeup/best-selling-primers
+2016-07-13 16:59:37 INFO  Log:10 - Writing Best-Selling Primers in Excel
+2016-07-13 16:59:37 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:59:37 INFO  Log:10 - key=>Best-Selling BBs value=>/best-selling-makeup/best-selling-bbs
+2016-07-13 16:59:39 INFO  Log:10 - Writing Best-Selling BBs in Excel
+2016-07-13 16:59:39 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:59:39 INFO  Log:10 - key=>Best-Selling CCs value=>/best-selling-makeup/best-selling-ccs
+2016-07-13 16:59:40 INFO  Log:10 - Writing Best-Selling CCs in Excel
+2016-07-13 16:59:40 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:59:40 INFO  Log:10 - key=>Best-Selling Makeup Brushes value=>/best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 16:59:42 INFO  Log:10 - Writing Best-Selling Makeup Brushes in Excel
+2016-07-13 16:59:42 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:59:42 INFO  Log:10 - key=>Best-Selling Eyebrow Pencils value=>/best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 16:59:43 INFO  Log:10 - Writing Best-Selling Eyebrow Pencils in Excel
+2016-07-13 16:59:43 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:59:43 INFO  Log:10 - key=>Best-Selling Foundations for Oily Skin value=>/best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 16:59:45 INFO  Log:10 - Writing Best-Selling Foundations for Oily Skin in Excel
+2016-07-13 16:59:45 INFO  Log:10 - Link rediretcion is success
+2016-07-13 16:59:45 INFO  Log:10 - Getting data from Excel
+2016-07-13 16:59:45 INFO  Log:10 - Pagename:best-selling-eyeliners
+Legacy URL:http://www.macys.com/m/best-selling-makeup/best-selling-eyeliners
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/best-selling-eyeliners
+2016-07-13 16:59:45 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 17:00:02 INFO  Log:10 - pageType:"seo"
+2016-07-13 17:00:17 INFO  Log:10 - pageId:"seobestsellingbeauty.lp"
+2016-07-13 17:00:32 INFO  Log:10 - categoryID:"eyeliners"
+2016-07-13 17:00:32 INFO  Log:10 - Pagetype,PageID and Category ID validation success...
+2016-07-13 17:00:32 INFO  Log:10 - Comparing html contents...
+2016-07-13 17:00:59 INFO  Log:10 - Legacy contents=>[Lined to perfection. Get to know our top picks in
+eyeliners and discover must-haves for your
+makeup collection., SHOP EYELINERS, Lancôme Artliner 24H Bold Color
+Precision EyeLiner, Featuring a felt-tip applicator and patent-vinyl finish, this liquid liner takes the cat-eye look to a whole new level with unexpected, bold colors., LIQUID EYELINERS, Lancôme LE STYLO WATERPROOF
+Long Lasting EyeLiner, No smudges or streaks here. This waterproof formula is no match for tears or unexpected weather., WATERPROOF EYELINERS, Bobbi Brown Long-Wear
+Gel Eyeliner, This longwearing gel liner boasts a creamy consistency that goes on smoothly and dries in place. Pro tip? Use an ultra-fine liner brush for the most precise application., GEL EYELINERS, Clinique Quickliner for Eyes, Define your waterline with ease using this automatic eyeliner pencil. The color sets to a transfer-free finish for all-day wear., WATERLINE EYELINERS, Urban Decay 24/7
+Glide-On Eye Pencil, Color your world with multifaceted eye pencils from Urban Decay. From tropical-inspired shades and vibrant metallic to intense neutrals, these highly pigmented pencils leaves a creamy finish with super staying power., PENCIL EYELINERS]
+2016-07-13 17:00:59 INFO  Log:10 - Heroku contents=>[Lined to perfection. Get to know our top picks in
+eyeliners and discover must-haves for your
+makeup collection., SHOP EYELINERS, Lancôme Artliner 24H Bold Color
+Precision EyeLiner, Featuring a felt-tip applicator and patent-vinyl finish, this liquid liner takes the cat-eye look to a whole new level with unexpected, bold colors., LIQUID EYELINERS, Lancôme LE STYLO WATERPROOF
+Long Lasting EyeLiner, No smudges or streaks here. This waterproof formula is no match for tears or unexpected weather., WATERPROOF EYELINERS, Bobbi Brown Long-Wear
+Gel Eyeliner, This longwearing gel liner boasts a creamy consistency that goes on smoothly and dries in place. Pro tip? Use an ultra-fine liner brush for the most precise application., GEL EYELINERS, Clinique Quickliner for Eyes, Define your waterline with ease using this automatic eyeliner pencil. The color sets to a transfer-free finish for all-day wear., WATERLINE EYELINERS, Urban Decay 24/7
+Glide-On Eye Pencil, Color your world with multifaceted eye pencils from Urban Decay. From tropical-inspired shades and vibrant metallic to intense neutrals, these highly pigmented pencils leaves a creamy finish with super staying power., PENCIL EYELINERS]
+2016-07-13 17:00:59 INFO  Log:10 - Compare html-success
+2016-07-13 17:00:59 INFO  Log:10 - reading the meta title
+2016-07-13 17:01:15 INFO  Log:10 - Validating the links in the page...
+2016-07-13 17:01:21 INFO  Log:10 - Getting links from page
+2016-07-13 17:01:21 INFO  Log:10 - /shop/makeup-and-perfume/eye-makeup/Eye_category,Sortby,Productsperpage/Eye%20Liner,ORIGINAL,40?id=30520
+2016-07-13 17:01:21 INFO  Log:10 - /shop/featured/liquid-eyeliner
+2016-07-13 17:01:21 INFO  Log:10 - /shop/featured/waterproof-eyeliner
+2016-07-13 17:01:21 INFO  Log:10 - /shop/featured/gel-eyeliner
+2016-07-13 17:01:21 INFO  Log:10 - /shop/featured/waterline-eyeliner
+2016-07-13 17:01:21 INFO  Log:10 - /shop/makeup-and-perfume/eye-makeup/Eye_category,Makeup_formulation,Sortby,Productsperpage/Eye%20Liner,Pencil,BEST_SELLERS,100?id=30520
+2016-07-13 17:01:21 INFO  Log:10 - /best-selling-makeup/index
+2016-07-13 17:01:21 INFO  Log:10 - /best-selling-makeup/best-selling-mascaras
+2016-07-13 17:01:21 INFO  Log:10 - /best-selling-makeup/best-selling-foundations
+2016-07-13 17:01:21 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 17:01:21 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 17:01:21 INFO  Log:10 - /best-selling-makeup/best-selling-lipsticks
+2016-07-13 17:01:21 INFO  Log:10 - /best-selling-makeup/best-selling-concealers
+2016-07-13 17:01:21 INFO  Log:10 - /best-selling-makeup/best-selling-eyeliners
+2016-07-13 17:01:21 INFO  Log:10 - /best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 17:01:21 INFO  Log:10 - /best-selling-makeup/best-selling-bbs
+2016-07-13 17:01:21 INFO  Log:10 - /best-selling-makeup/best-selling-ccs
+2016-07-13 17:01:22 INFO  Log:10 - /best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 17:01:22 INFO  Log:10 - /best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 17:01:22 INFO  Log:10 - /best-selling-makeup/best-selling-primers
+2016-07-13 17:01:22 INFO  Log:10 - /best-selling-makeup/best-selling-bronzers
+2016-07-13 17:01:22 INFO  Log:10 - /best-selling-makeup/best-selling-beauty-brands
+2016-07-13 17:01:36 INFO  Log:10 - key=>SHOP EYELINERS value=>/shop/makeup-and-perfume/eye-makeup/Eye_category,Sortby,Productsperpage/Eye%20Liner,ORIGINAL,40?id=30520
+2016-07-13 17:01:37 INFO  Log:10 - Writing SHOP EYELINERS in Excel
+2016-07-13 17:01:37 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:01:37 INFO  Log:10 - key=>WATERLINE EYELINERS value=>/shop/featured/waterline-eyeliner
+2016-07-13 17:01:39 INFO  Log:10 - Writing WATERLINE EYELINERS in Excel
+2016-07-13 17:01:39 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:01:39 INFO  Log:10 - key=>Best-Selling Lipsticks value=>/best-selling-makeup/best-selling-lipsticks
+2016-07-13 17:01:41 INFO  Log:10 - Writing Best-Selling Lipsticks in Excel
+2016-07-13 17:01:41 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:01:41 INFO  Log:10 - key=>LIQUID EYELINERS value=>/shop/featured/liquid-eyeliner
+2016-07-13 17:01:42 INFO  Log:10 - Writing LIQUID EYELINERS in Excel
+2016-07-13 17:01:42 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:01:42 INFO  Log:10 - key=>Best-Selling Foundations for Dry Skin value=>/best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 17:01:44 INFO  Log:10 - Writing Best-Selling Foundations for Dry Skin in Excel
+2016-07-13 17:01:44 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:01:44 INFO  Log:10 - key=>PENCIL EYELINERS value=>/shop/makeup-and-perfume/eye-makeup/Eye_category,Makeup_formulation,Sortby,Productsperpage/Eye%20Liner,Pencil,BEST_SELLERS,100?id=30520
+2016-07-13 17:01:46 INFO  Log:10 - Writing PENCIL EYELINERS in Excel
+2016-07-13 17:01:46 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:01:46 INFO  Log:10 - key=>Best-Selling Bronzers value=>/best-selling-makeup/best-selling-bronzers
+2016-07-13 17:01:48 INFO  Log:10 - Writing Best-Selling Bronzers in Excel
+2016-07-13 17:01:48 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:01:48 INFO  Log:10 - key=>Best-Selling Beauty Brands value=>/best-selling-makeup/best-selling-beauty-brands
+2016-07-13 17:01:49 INFO  Log:10 - Writing Best-Selling Beauty Brands in Excel
+2016-07-13 17:01:49 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:01:49 INFO  Log:10 - key=>WATERPROOF EYELINERS value=>/shop/featured/waterproof-eyeliner
+2016-07-13 17:01:51 INFO  Log:10 - Writing WATERPROOF EYELINERS in Excel
+2016-07-13 17:01:51 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:01:51 INFO  Log:10 - key=>Best-Selling Concealers value=>/best-selling-makeup/best-selling-concealers
+2016-07-13 17:01:53 INFO  Log:10 - Writing Best-Selling Concealers in Excel
+2016-07-13 17:01:53 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:01:53 INFO  Log:10 - key=>Best-Selling Eyeliners value=>/best-selling-makeup/best-selling-eyeliners
+2016-07-13 17:01:55 INFO  Log:10 - Writing Best-Selling Eyeliners in Excel
+2016-07-13 17:01:55 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:01:55 INFO  Log:10 - key=>Best-Selling Beauty Favorites value=>/best-selling-makeup/index
+2016-07-13 17:01:57 INFO  Log:10 - Writing Best-Selling Beauty Favorites in Excel
+2016-07-13 17:01:57 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:01:57 INFO  Log:10 - key=>Best-Selling Mascaras value=>/best-selling-makeup/best-selling-mascaras
+2016-07-13 17:01:59 INFO  Log:10 - Writing Best-Selling Mascaras in Excel
+2016-07-13 17:01:59 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:01:59 INFO  Log:10 - key=>Best-Selling Foundations value=>/best-selling-makeup/best-selling-foundations
+2016-07-13 17:02:00 INFO  Log:10 - Writing Best-Selling Foundations in Excel
+2016-07-13 17:02:00 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:02:00 INFO  Log:10 - key=>Best-Selling Eyelash Curlers value=>/best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 17:02:02 INFO  Log:10 - Writing Best-Selling Eyelash Curlers in Excel
+2016-07-13 17:02:02 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:02:02 INFO  Log:10 - key=>Best-Selling Primers value=>/best-selling-makeup/best-selling-primers
+2016-07-13 17:02:04 INFO  Log:10 - Writing Best-Selling Primers in Excel
+2016-07-13 17:02:04 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:02:04 INFO  Log:10 - key=>Best-Selling BBs value=>/best-selling-makeup/best-selling-bbs
+2016-07-13 17:02:06 INFO  Log:10 - Writing Best-Selling BBs in Excel
+2016-07-13 17:02:06 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:02:06 INFO  Log:10 - key=>Best-Selling CCs value=>/best-selling-makeup/best-selling-ccs
+2016-07-13 17:02:07 INFO  Log:10 - Writing Best-Selling CCs in Excel
+2016-07-13 17:02:07 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:02:07 INFO  Log:10 - key=>GEL EYELINERS value=>/shop/featured/gel-eyeliner
+2016-07-13 17:02:09 INFO  Log:10 - Writing GEL EYELINERS in Excel
+2016-07-13 17:02:09 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:02:09 INFO  Log:10 - key=>Best-Selling Makeup Brushes value=>/best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 17:02:11 INFO  Log:10 - Writing Best-Selling Makeup Brushes in Excel
+2016-07-13 17:02:11 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:02:11 INFO  Log:10 - key=>Best-Selling Eyebrow Pencils value=>/best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 17:02:13 INFO  Log:10 - Writing Best-Selling Eyebrow Pencils in Excel
+2016-07-13 17:02:13 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:02:13 INFO  Log:10 - key=>Best-Selling Foundations for Oily Skin value=>/best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 17:02:14 INFO  Log:10 - Writing Best-Selling Foundations for Oily Skin in Excel
+2016-07-13 17:02:14 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:02:15 INFO  Log:10 - Getting data from Excel
+2016-07-13 17:02:15 INFO  Log:10 - Pagename:best-selling-foundations
+Legacy URL:http://www.macys.com/m/best-selling-makeup/best-selling-foundations
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/best-selling-foundations
+2016-07-13 17:02:15 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 17:02:28 INFO  Log:10 - pageType:"seo"
+2016-07-13 17:02:40 INFO  Log:10 - pageId:"seobestsellingbeauty.lp"
+2016-07-13 17:02:56 INFO  Log:10 - categoryID:"foundations"
+2016-07-13 17:02:56 INFO  Log:10 - Pagetype,PageID and Category ID validation success...
+2016-07-13 17:02:56 INFO  Log:10 - Comparing html contents...
+2016-07-13 17:03:25 INFO  Log:10 - Legacy contents=>[Fresh faced? Full coverage? No matter what type
+of formula you’re looking for, create a flawless
+face with our best-selling foundation favorites., SHOP FOUNDATION, Lancôme Teint Idole Ultra 24H Wear
+& Comfort Retouch-Free Divine
+Perfection Foundation SPF 15, A blendable formula that leaves a velvety, full-coverage finish. Experience comfortable, long-lasting wear for flawless-looking skin from day to night., FULL COVERAGE FOUNDATION, Estée Lauder Double Wear
+Stay-in-Place Makeup, The lightweight feel you want, with the coverage you need. This oil-free, liquid formula comes in 30 shades—you’re sure to find one that matches your skin tone., LIQUID FOUNDATION, Lancôme Dual Finish Versatile
+Powder Makeup, The multitasking powder foundation you need. Apply over liquid or cream foundation to set your look, or use a damp sponge for a full, matte finish., POWDER FOUNDATION, Bare Escentuals bareMinerals Matte
+SPF 15 Foundation, Shine-free with a natural-looking finish. Discover this innovative mineral formula for the perfect matte foundation., MATTE FOUNDATION, Bare Escentuals bareMinerals
+Complexion Rescue Tinted Hydrating
+Gel Cream Broad Spectrum SPF 30, Let your skin shine through with this lightweight tinted gel cream. Enjoy powerful hydration for the perfect dewy, radiant finish., LIGHT FOUNDATION, Clinique Even Better Compact
+Makeup Broad Spectrum SPF 15, Blend it in—this unique cream foundation transforms into a powdery finish and goes on smoothly and seamlessly across the face., CREAM FOUNDATION]
+2016-07-13 17:03:25 INFO  Log:10 - Heroku contents=>[Fresh faced? Full coverage? No matter what type
+of formula you’re looking for, create a flawless
+face with our best-selling foundation favorites., SHOP FOUNDATION, Lancôme Teint Idole Ultra 24H Wear
+& Comfort Retouch-Free Divine
+Perfection Foundation SPF 15, A blendable formula that leaves a velvety, full-coverage finish. Experience comfortable, long-lasting wear for flawless-looking skin from day to night., FULL COVERAGE FOUNDATION, Estée Lauder Double Wear
+Stay-in-Place Makeup, The lightweight feel you want, with the coverage you need. This oil-free, liquid formula comes in 30 shades—you’re sure to find one that matches your skin tone., LIQUID FOUNDATION, Lancôme Dual Finish Versatile
+Powder Makeup, The multitasking powder foundation you need. Apply over liquid or cream foundation to set your look, or use a damp sponge for a full, matte finish., POWDER FOUNDATION, Bare Escentuals bareMinerals Matte
+SPF 15 Foundation, Shine-free with a natural-looking finish. Discover this innovative mineral formula for the perfect matte foundation., MATTE FOUNDATION, Bare Escentuals bareMinerals
+Complexion Rescue Tinted Hydrating
+Gel Cream Broad Spectrum SPF 30, Let your skin shine through with this lightweight tinted gel cream. Enjoy powerful hydration for the perfect dewy, radiant finish., LIGHT FOUNDATION, Clinique Even Better Compact
+Makeup Broad Spectrum SPF 15, Blend it in—this unique cream foundation transforms into a powdery finish and goes on smoothly and seamlessly across the face., CREAM FOUNDATION]
+2016-07-13 17:03:25 INFO  Log:10 - Compare html-success
+2016-07-13 17:03:25 INFO  Log:10 - reading the meta title
+2016-07-13 17:03:39 INFO  Log:10 - Validating the links in the page...
+2016-07-13 17:03:45 INFO  Log:10 - Getting links from page
+2016-07-13 17:03:45 INFO  Log:10 - /shop/makeup-and-perfume/foundation?id=53451
+2016-07-13 17:03:46 INFO  Log:10 - /shop/featured/full-coverage-foundation
+2016-07-13 17:03:46 INFO  Log:10 - /shop/makeup-and-perfume/foundation/Makeup_formulation,Sortby,Productsperpage/Liquid,ORIGINAL,40?id=53451
+2016-07-13 17:03:46 INFO  Log:10 - /shop/makeup-and-perfume/foundation/Makeup_formulation,Powder_type,Sortby,Productsperpage/Loose%20powder|Pressed%20powder,Blotting|Loose|Pressed|Setting,ORIGINAL,100?id=53451
+2016-07-13 17:03:46 INFO  Log:10 - /shop/makeup-and-perfume/foundation/Makeup_finish,Sortby,Productsperpage/Matte,ORIGINAL,40?id=53451
+2016-07-13 17:03:46 INFO  Log:10 - /shop/featured/light-foundation
+2016-07-13 17:03:46 INFO  Log:10 - /shop/makeup-and-perfume/foundation/Makeup_formulation,Sortby,Productsperpage/Cream,ORIGINAL,100?id=53451
+2016-07-13 17:03:46 INFO  Log:10 - /best-selling-makeup/index
+2016-07-13 17:03:46 INFO  Log:10 - /best-selling-makeup/best-selling-mascaras
+2016-07-13 17:03:46 INFO  Log:10 - /best-selling-makeup/best-selling-foundations
+2016-07-13 17:03:46 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 17:03:46 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 17:03:46 INFO  Log:10 - /best-selling-makeup/best-selling-lipsticks
+2016-07-13 17:03:46 INFO  Log:10 - /best-selling-makeup/best-selling-concealers
+2016-07-13 17:03:46 INFO  Log:10 - /best-selling-makeup/best-selling-eyeliners
+2016-07-13 17:03:46 INFO  Log:10 - /best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 17:03:46 INFO  Log:10 - /best-selling-makeup/best-selling-bbs
+2016-07-13 17:03:46 INFO  Log:10 - /best-selling-makeup/best-selling-ccs
+2016-07-13 17:03:46 INFO  Log:10 - /best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 17:03:46 INFO  Log:10 - /best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 17:03:46 INFO  Log:10 - /best-selling-makeup/best-selling-primers
+2016-07-13 17:03:46 INFO  Log:10 - /best-selling-makeup/best-selling-bronzers
+2016-07-13 17:03:46 INFO  Log:10 - /best-selling-makeup/best-selling-beauty-brands
+2016-07-13 17:03:57 INFO  Log:10 - key=>Best-Selling Lipsticks value=>/best-selling-makeup/best-selling-lipsticks
+2016-07-13 17:03:59 INFO  Log:10 - Writing Best-Selling Lipsticks in Excel
+2016-07-13 17:03:59 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:03:59 INFO  Log:10 - key=>LIGHT FOUNDATION value=>/shop/featured/light-foundation
+2016-07-13 17:04:01 INFO  Log:10 - Writing LIGHT FOUNDATION in Excel
+2016-07-13 17:04:01 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:04:01 INFO  Log:10 - key=>Best-Selling Foundations for Dry Skin value=>/best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 17:04:04 INFO  Log:10 - Writing Best-Selling Foundations for Dry Skin in Excel
+2016-07-13 17:04:04 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:04:04 INFO  Log:10 - key=>Best-Selling Bronzers value=>/best-selling-makeup/best-selling-bronzers
+2016-07-13 17:04:06 INFO  Log:10 - Writing Best-Selling Bronzers in Excel
+2016-07-13 17:04:06 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:04:06 INFO  Log:10 - key=>Best-Selling Beauty Brands value=>/best-selling-makeup/best-selling-beauty-brands
+2016-07-13 17:04:08 INFO  Log:10 - Writing Best-Selling Beauty Brands in Excel
+2016-07-13 17:04:08 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:04:08 INFO  Log:10 - key=>LIQUID FOUNDATION value=>/shop/makeup-and-perfume/foundation/Makeup_formulation,Sortby,Productsperpage/Liquid,ORIGINAL,40?id=53451
+2016-07-13 17:04:10 INFO  Log:10 - Writing LIQUID FOUNDATION in Excel
+2016-07-13 17:04:10 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:04:10 INFO  Log:10 - key=>Best-Selling Concealers value=>/best-selling-makeup/best-selling-concealers
+2016-07-13 17:04:11 INFO  Log:10 - Writing Best-Selling Concealers in Excel
+2016-07-13 17:04:11 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:04:11 INFO  Log:10 - key=>Best-Selling Eyeliners value=>/best-selling-makeup/best-selling-eyeliners
+2016-07-13 17:04:13 INFO  Log:10 - Writing Best-Selling Eyeliners in Excel
+2016-07-13 17:04:13 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:04:13 INFO  Log:10 - key=>Best-Selling Beauty Favorites value=>/best-selling-makeup/index
+2016-07-13 17:04:15 INFO  Log:10 - Writing Best-Selling Beauty Favorites in Excel
+2016-07-13 17:04:15 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:04:15 INFO  Log:10 - key=>Best-Selling Mascaras value=>/best-selling-makeup/best-selling-mascaras
+2016-07-13 17:04:17 INFO  Log:10 - Writing Best-Selling Mascaras in Excel
+2016-07-13 17:04:17 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:04:17 INFO  Log:10 - key=>MATTE FOUNDATION value=>/shop/makeup-and-perfume/foundation/Makeup_finish,Sortby,Productsperpage/Matte,ORIGINAL,40?id=53451
+2016-07-13 17:04:19 INFO  Log:10 - Writing MATTE FOUNDATION in Excel
+2016-07-13 17:04:19 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:04:19 INFO  Log:10 - key=>SHOP FOUNDATION value=>/shop/makeup-and-perfume/foundation?id=53451
+2016-07-13 17:04:20 INFO  Log:10 - Writing SHOP FOUNDATION in Excel
+2016-07-13 17:04:20 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:04:20 INFO  Log:10 - key=>Best-Selling Foundations value=>/best-selling-makeup/best-selling-foundations
+2016-07-13 17:04:22 INFO  Log:10 - Writing Best-Selling Foundations in Excel
+2016-07-13 17:04:22 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:04:22 INFO  Log:10 - key=>Best-Selling Eyelash Curlers value=>/best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 17:04:24 INFO  Log:10 - Writing Best-Selling Eyelash Curlers in Excel
+2016-07-13 17:04:24 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:04:24 INFO  Log:10 - key=>Best-Selling Primers value=>/best-selling-makeup/best-selling-primers
+2016-07-13 17:04:26 INFO  Log:10 - Writing Best-Selling Primers in Excel
+2016-07-13 17:04:26 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:04:26 INFO  Log:10 - key=>FULL COVERAGE FOUNDATION value=>/shop/featured/full-coverage-foundation
+2016-07-13 17:04:28 INFO  Log:10 - Writing FULL COVERAGE FOUNDATION in Excel
+2016-07-13 17:04:28 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:04:28 INFO  Log:10 - key=>Best-Selling BBs value=>/best-selling-makeup/best-selling-bbs
+2016-07-13 17:04:29 INFO  Log:10 - Writing Best-Selling BBs in Excel
+2016-07-13 17:04:29 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:04:29 INFO  Log:10 - key=>Best-Selling CCs value=>/best-selling-makeup/best-selling-ccs
+2016-07-13 17:04:31 INFO  Log:10 - Writing Best-Selling CCs in Excel
+2016-07-13 17:04:31 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:04:31 INFO  Log:10 - key=>POWDER FOUNDATION value=>/shop/makeup-and-perfume/foundation/Makeup_formulation,Powder_type,Sortby,Productsperpage/Loose%20powder|Pressed%20powder,Blotting|Loose|Pressed|Setting,ORIGINAL,100?id=53451
+2016-07-13 17:04:33 INFO  Log:10 - Writing POWDER FOUNDATION in Excel
+2016-07-13 17:04:33 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:04:33 INFO  Log:10 - key=>CREAM FOUNDATION value=>/shop/makeup-and-perfume/foundation/Makeup_formulation,Sortby,Productsperpage/Cream,ORIGINAL,100?id=53451
+2016-07-13 17:04:35 INFO  Log:10 - Writing CREAM FOUNDATION in Excel
+2016-07-13 17:04:35 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:04:35 INFO  Log:10 - key=>Best-Selling Makeup Brushes value=>/best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 17:04:37 INFO  Log:10 - Writing Best-Selling Makeup Brushes in Excel
+2016-07-13 17:04:37 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:04:37 INFO  Log:10 - key=>Best-Selling Eyebrow Pencils value=>/best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 17:04:38 INFO  Log:10 - Writing Best-Selling Eyebrow Pencils in Excel
+2016-07-13 17:04:38 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:04:38 INFO  Log:10 - key=>Best-Selling Foundations for Oily Skin value=>/best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 17:04:40 INFO  Log:10 - Writing Best-Selling Foundations for Oily Skin in Excel
+2016-07-13 17:04:40 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:04:40 INFO  Log:10 - Getting data from Excel
+2016-07-13 17:04:40 INFO  Log:10 - Pagename:best-selling-foundations-for-dry-skin
+Legacy URL:http://www.macys.com/m/best-selling-makeup/best-selling-foundations-for-dry-skin
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 17:04:40 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 17:04:54 INFO  Log:10 - pageType:"seo"
+2016-07-13 17:05:06 INFO  Log:10 - pageId:"seobestsellingbeauty.lp"
+2016-07-13 17:05:19 INFO  Log:10 - categoryID:"foundationsfordryskin"
+2016-07-13 17:05:19 INFO  Log:10 - Pagetype,PageID and Category ID validation success...
+2016-07-13 17:05:19 INFO  Log:10 - Comparing html contents...
+2016-07-13 17:05:38 INFO  Log:10 - Legacy contents=>[Have dry skin? We’ve got you covered with hydrating
+foundations that give just the right amount of coverage., SHOP FOUNDATION, Clinique Supermoisture Makeup, A super-hydrating cream that leaves drier skin feeling refreshed. This lightweight formula offers just enough coverage while leaving a fresh, dewy finish., HYDRATING FOUNDATION, Bare Escentuals bareMinerals
+Complexion Rescue Tinted Hydrating
+Gel Cream Broad Spectrum SPF 30, A revolutionary tinted gel cream that combines the benefits of a BB cream, CC cream and tinted moisturizer. You’ll find a wide range of shades from fair to deep, cool to golden tones., LIGHT FOUNDATIONS]
+2016-07-13 17:05:38 INFO  Log:10 - Heroku contents=>[Have dry skin? We’ve got you covered with hydrating
+foundations that give just the right amount of coverage., SHOP FOUNDATION, Clinique Supermoisture Makeup, A super-hydrating cream that leaves drier skin feeling refreshed. This lightweight formula offers just enough coverage while leaving a fresh, dewy finish., HYDRATING FOUNDATION, Bare Escentuals bareMinerals
+Complexion Rescue Tinted Hydrating
+Gel Cream Broad Spectrum SPF 30, A revolutionary tinted gel cream that combines the benefits of a BB cream, CC cream and tinted moisturizer. You’ll find a wide range of shades from fair to deep, cool to golden tones., LIGHT FOUNDATIONS]
+2016-07-13 17:05:38 INFO  Log:10 - Compare html-success
+2016-07-13 17:05:38 INFO  Log:10 - reading the meta title
+2016-07-13 17:05:56 INFO  Log:10 - Validating the links in the page...
+2016-07-13 17:06:02 INFO  Log:10 - Getting links from page
+2016-07-13 17:06:02 INFO  Log:10 - /shop/makeup-and-perfume/foundation?id=53451
+2016-07-13 17:06:02 INFO  Log:10 - /shop/featured/hydrating-foundation
+2016-07-13 17:06:02 INFO  Log:10 - /shop/featured/light-foundation
+2016-07-13 17:06:02 INFO  Log:10 - /best-selling-makeup/index
+2016-07-13 17:06:02 INFO  Log:10 - /best-selling-makeup/best-selling-mascaras
+2016-07-13 17:06:02 INFO  Log:10 - /best-selling-makeup/best-selling-foundations
+2016-07-13 17:06:02 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 17:06:02 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 17:06:02 INFO  Log:10 - /best-selling-makeup/best-selling-lipsticks
+2016-07-13 17:06:02 INFO  Log:10 - /best-selling-makeup/best-selling-concealers
+2016-07-13 17:06:02 INFO  Log:10 - /best-selling-makeup/best-selling-eyeliners
+2016-07-13 17:06:02 INFO  Log:10 - /best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 17:06:02 INFO  Log:10 - /best-selling-makeup/best-selling-bbs
+2016-07-13 17:06:02 INFO  Log:10 - /best-selling-makeup/best-selling-ccs
+2016-07-13 17:06:02 INFO  Log:10 - /best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 17:06:02 INFO  Log:10 - /best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 17:06:02 INFO  Log:10 - /best-selling-makeup/best-selling-primers
+2016-07-13 17:06:02 INFO  Log:10 - /best-selling-makeup/best-selling-bronzers
+2016-07-13 17:06:02 INFO  Log:10 - /best-selling-makeup/best-selling-beauty-brands
+2016-07-13 17:06:12 INFO  Log:10 - key=>Best-Selling Lipsticks value=>/best-selling-makeup/best-selling-lipsticks
+2016-07-13 17:06:14 INFO  Log:10 - Writing Best-Selling Lipsticks in Excel
+2016-07-13 17:06:14 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:06:14 INFO  Log:10 - key=>LIGHT FOUNDATIONS value=>/shop/featured/light-foundation
+2016-07-13 17:06:16 INFO  Log:10 - Writing LIGHT FOUNDATIONS in Excel
+2016-07-13 17:06:16 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:06:16 INFO  Log:10 - key=>Best-Selling Foundations for Dry Skin value=>/best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 17:06:17 INFO  Log:10 - Writing Best-Selling Foundations for Dry Skin in Excel
+2016-07-13 17:06:17 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:06:17 INFO  Log:10 - key=>Best-Selling Bronzers value=>/best-selling-makeup/best-selling-bronzers
+2016-07-13 17:06:19 INFO  Log:10 - Writing Best-Selling Bronzers in Excel
+2016-07-13 17:06:19 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:06:19 INFO  Log:10 - key=>Best-Selling Beauty Brands value=>/best-selling-makeup/best-selling-beauty-brands
+2016-07-13 17:06:21 INFO  Log:10 - Writing Best-Selling Beauty Brands in Excel
+2016-07-13 17:06:21 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:06:21 INFO  Log:10 - key=>Best-Selling Concealers value=>/best-selling-makeup/best-selling-concealers
+2016-07-13 17:06:23 INFO  Log:10 - Writing Best-Selling Concealers in Excel
+2016-07-13 17:06:23 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:06:23 INFO  Log:10 - key=>Best-Selling Eyeliners value=>/best-selling-makeup/best-selling-eyeliners
+2016-07-13 17:06:25 INFO  Log:10 - Writing Best-Selling Eyeliners in Excel
+2016-07-13 17:06:25 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:06:25 INFO  Log:10 - key=>Best-Selling Beauty Favorites value=>/best-selling-makeup/index
+2016-07-13 17:06:28 INFO  Log:10 - Writing Best-Selling Beauty Favorites in Excel
+2016-07-13 17:06:28 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:06:28 INFO  Log:10 - key=>Best-Selling Mascaras value=>/best-selling-makeup/best-selling-mascaras
+2016-07-13 17:06:30 INFO  Log:10 - Writing Best-Selling Mascaras in Excel
+2016-07-13 17:06:30 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:06:30 INFO  Log:10 - key=>SHOP FOUNDATION value=>/shop/makeup-and-perfume/foundation?id=53451
+2016-07-13 17:06:32 INFO  Log:10 - Writing SHOP FOUNDATION in Excel
+2016-07-13 17:06:32 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:06:32 INFO  Log:10 - key=>Best-Selling Foundations value=>/best-selling-makeup/best-selling-foundations
+2016-07-13 17:06:35 INFO  Log:10 - Writing Best-Selling Foundations in Excel
+2016-07-13 17:06:35 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:06:35 INFO  Log:10 - key=>Best-Selling Eyelash Curlers value=>/best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 17:06:37 INFO  Log:10 - Writing Best-Selling Eyelash Curlers in Excel
+2016-07-13 17:06:37 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:06:37 INFO  Log:10 - key=>Best-Selling Primers value=>/best-selling-makeup/best-selling-primers
+2016-07-13 17:06:40 INFO  Log:10 - Writing Best-Selling Primers in Excel
+2016-07-13 17:06:40 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:06:40 INFO  Log:10 - key=>Best-Selling BBs value=>/best-selling-makeup/best-selling-bbs
+2016-07-13 17:06:42 INFO  Log:10 - Writing Best-Selling BBs in Excel
+2016-07-13 17:06:42 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:06:42 INFO  Log:10 - key=>Best-Selling CCs value=>/best-selling-makeup/best-selling-ccs
+2016-07-13 17:06:45 INFO  Log:10 - Writing Best-Selling CCs in Excel
+2016-07-13 17:06:45 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:06:45 INFO  Log:10 - key=>HYDRATING FOUNDATION value=>/shop/featured/hydrating-foundation
+2016-07-13 17:06:48 INFO  Log:10 - Writing HYDRATING FOUNDATION in Excel
+2016-07-13 17:06:48 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:06:48 INFO  Log:10 - key=>Best-Selling Makeup Brushes value=>/best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 17:06:51 INFO  Log:10 - Writing Best-Selling Makeup Brushes in Excel
+2016-07-13 17:06:51 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:06:51 INFO  Log:10 - key=>Best-Selling Eyebrow Pencils value=>/best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 17:06:54 INFO  Log:10 - Writing Best-Selling Eyebrow Pencils in Excel
+2016-07-13 17:06:54 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:06:54 INFO  Log:10 - key=>Best-Selling Foundations for Oily Skin value=>/best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 17:06:57 INFO  Log:10 - Writing Best-Selling Foundations for Oily Skin in Excel
+2016-07-13 17:06:57 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:06:57 INFO  Log:10 - Getting data from Excel
+2016-07-13 17:06:57 INFO  Log:10 - Pagename:best-selling-foundations-for-oily-skin
+Legacy URL:http://www.macys.com/m/best-selling-makeup/best-selling-foundations-for-oily-skin
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 17:06:57 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 17:07:11 INFO  Log:10 - pageType:"seo"
+2016-07-13 17:07:34 INFO  Log:10 - pageId:"seobestsellingbeauty.lp"
+2016-07-13 17:07:45 INFO  Log:10 - categoryID:"foundationsforoilyskin"
+2016-07-13 17:07:45 INFO  Log:10 - Pagetype,PageID and Category ID validation success...
+2016-07-13 17:07:45 INFO  Log:10 - Comparing html contents...
+2016-07-13 17:08:07 INFO  Log:10 - Legacy contents=>[Looking for a high-performance foundation for oily
+skin? We’ve picked out our best sellers with the
+coverage you want in the formulas you’re looking for., SHOP FOUNDATION, Smashbox Photo Filter
+Powder Foundation, The perfect blend of makeup technology and longwearing performance, this oil-free powder foundation features translucent pigments that help to blur imperfections and diffuse light—much like your favorite photo app filters., POWDER FOUNDATION, Bobbi Brown Long-Wear Even
+Finish Foundation SPF 15, Lightweight, longwearing and natural-looking. This oil-free, gel-based liquid foundation offers medium to full coverage while keeping the skin feeling moisturized even through humid conditions., LIQUID FOUNDATION, Shiseido Sheer Matifying Compact, The key to combating oil? A matifying formula. This sheer powder foundation helps to keep shine at bay with oil-absorbing technology for a matte finish., OIL-FREE FOUNDATION]
+2016-07-13 17:08:07 INFO  Log:10 - Heroku contents=>[Looking for a high-performance foundation for oily
+skin? We’ve picked out our best sellers with the
+coverage you want in the formulas you’re looking for., SHOP FOUNDATION, Smashbox Photo Filter
+Powder Foundation, The perfect blend of makeup technology and longwearing performance, this oil-free powder foundation features translucent pigments that help to blur imperfections and diffuse light—much like your favorite photo app filters., POWDER FOUNDATION, Bobbi Brown Long-Wear Even
+Finish Foundation SPF 15, Lightweight, longwearing and natural-looking. This oil-free, gel-based liquid foundation offers medium to full coverage while keeping the skin feeling moisturized even through humid conditions., LIQUID FOUNDATION, Shiseido Sheer Matifying Compact, The key to combating oil? A matifying formula. This sheer powder foundation helps to keep shine at bay with oil-absorbing technology for a matte finish., OIL-FREE FOUNDATION]
+2016-07-13 17:08:07 INFO  Log:10 - Compare html-success
+2016-07-13 17:08:07 INFO  Log:10 - reading the meta title
+2016-07-13 17:08:27 INFO  Log:10 - Validating the links in the page...
+2016-07-13 17:08:33 INFO  Log:10 - Getting links from page
+2016-07-13 17:08:33 INFO  Log:10 - /shop/makeup-and-perfume/foundation?id=53451
+2016-07-13 17:08:33 INFO  Log:10 - /shop/featured/powder-foundation
+2016-07-13 17:08:33 INFO  Log:10 - /shop/makeup-and-perfume/foundation/Makeup_formulation,Sortby,Productsperpage/Liquid,ORIGINAL,40?id=53451
+2016-07-13 17:08:33 INFO  Log:10 - /shop/makeup-and-perfume/foundation/Benefit,Sortby,Productsperpage/Oil-Free,ORIGINAL,100?id=53451
+2016-07-13 17:08:33 INFO  Log:10 - /best-selling-makeup/index
+2016-07-13 17:08:33 INFO  Log:10 - /best-selling-makeup/best-selling-mascaras
+2016-07-13 17:08:33 INFO  Log:10 - /best-selling-makeup/best-selling-foundations
+2016-07-13 17:08:33 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 17:08:33 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 17:08:34 INFO  Log:10 - /best-selling-makeup/best-selling-lipsticks
+2016-07-13 17:08:34 INFO  Log:10 - /best-selling-makeup/best-selling-concealers
+2016-07-13 17:08:34 INFO  Log:10 - /best-selling-makeup/best-selling-eyeliners
+2016-07-13 17:08:34 INFO  Log:10 - /best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 17:08:34 INFO  Log:10 - /best-selling-makeup/best-selling-bbs
+2016-07-13 17:08:34 INFO  Log:10 - /best-selling-makeup/best-selling-ccs
+2016-07-13 17:08:34 INFO  Log:10 - /best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 17:08:34 INFO  Log:10 - /best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 17:08:34 INFO  Log:10 - /best-selling-makeup/best-selling-primers
+2016-07-13 17:08:34 INFO  Log:10 - /best-selling-makeup/best-selling-bronzers
+2016-07-13 17:08:34 INFO  Log:10 - /best-selling-makeup/best-selling-beauty-brands
+2016-07-13 17:08:44 INFO  Log:10 - key=>Best-Selling Lipsticks value=>/best-selling-makeup/best-selling-lipsticks
+2016-07-13 17:08:47 INFO  Log:10 - Writing Best-Selling Lipsticks in Excel
+2016-07-13 17:08:47 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:08:47 INFO  Log:10 - key=>Best-Selling Foundations for Dry Skin value=>/best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 17:08:50 INFO  Log:10 - Writing Best-Selling Foundations for Dry Skin in Excel
+2016-07-13 17:08:50 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:08:50 INFO  Log:10 - key=>Best-Selling Bronzers value=>/best-selling-makeup/best-selling-bronzers
+2016-07-13 17:08:53 INFO  Log:10 - Writing Best-Selling Bronzers in Excel
+2016-07-13 17:08:53 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:08:53 INFO  Log:10 - key=>Best-Selling Beauty Brands value=>/best-selling-makeup/best-selling-beauty-brands
+2016-07-13 17:08:56 INFO  Log:10 - Writing Best-Selling Beauty Brands in Excel
+2016-07-13 17:08:56 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:08:56 INFO  Log:10 - key=>LIQUID FOUNDATION value=>/shop/makeup-and-perfume/foundation/Makeup_formulation,Sortby,Productsperpage/Liquid,ORIGINAL,40?id=53451
+2016-07-13 17:09:00 INFO  Log:10 - Writing LIQUID FOUNDATION in Excel
+2016-07-13 17:09:00 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:09:00 INFO  Log:10 - key=>Best-Selling Concealers value=>/best-selling-makeup/best-selling-concealers
+2016-07-13 17:09:03 INFO  Log:10 - Writing Best-Selling Concealers in Excel
+2016-07-13 17:09:03 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:09:03 INFO  Log:10 - key=>Best-Selling Eyeliners value=>/best-selling-makeup/best-selling-eyeliners
+2016-07-13 17:09:07 INFO  Log:10 - Writing Best-Selling Eyeliners in Excel
+2016-07-13 17:09:07 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:09:07 INFO  Log:10 - key=>Best-Selling Beauty Favorites value=>/best-selling-makeup/index
+2016-07-13 17:09:10 INFO  Log:10 - Writing Best-Selling Beauty Favorites in Excel
+2016-07-13 17:09:10 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:09:10 INFO  Log:10 - key=>Best-Selling Mascaras value=>/best-selling-makeup/best-selling-mascaras
+2016-07-13 17:09:15 INFO  Log:10 - Writing Best-Selling Mascaras in Excel
+2016-07-13 17:09:15 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:09:15 INFO  Log:10 - key=>SHOP FOUNDATION value=>/shop/makeup-and-perfume/foundation?id=53451
+2016-07-13 17:09:18 INFO  Log:10 - Writing SHOP FOUNDATION in Excel
+2016-07-13 17:09:18 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:09:18 INFO  Log:10 - key=>Best-Selling Foundations value=>/best-selling-makeup/best-selling-foundations
+2016-07-13 17:09:22 INFO  Log:10 - Writing Best-Selling Foundations in Excel
+2016-07-13 17:09:22 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:09:22 INFO  Log:10 - key=>Best-Selling Eyelash Curlers value=>/best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 17:09:26 INFO  Log:10 - Writing Best-Selling Eyelash Curlers in Excel
+2016-07-13 17:09:26 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:09:26 INFO  Log:10 - key=>Best-Selling Primers value=>/best-selling-makeup/best-selling-primers
+2016-07-13 17:09:30 INFO  Log:10 - Writing Best-Selling Primers in Excel
+2016-07-13 17:09:30 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:09:30 INFO  Log:10 - key=>Best-Selling BBs value=>/best-selling-makeup/best-selling-bbs
+2016-07-13 17:09:34 INFO  Log:10 - Writing Best-Selling BBs in Excel
+2016-07-13 17:09:34 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:09:34 INFO  Log:10 - key=>Best-Selling CCs value=>/best-selling-makeup/best-selling-ccs
+2016-07-13 17:09:38 INFO  Log:10 - Writing Best-Selling CCs in Excel
+2016-07-13 17:09:38 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:09:38 INFO  Log:10 - key=>POWDER FOUNDATION value=>/shop/featured/powder-foundation
+2016-07-13 17:09:42 INFO  Log:10 - Writing POWDER FOUNDATION in Excel
+2016-07-13 17:09:42 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:09:42 INFO  Log:10 - key=>Best-Selling Makeup Brushes value=>/best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 17:09:47 INFO  Log:10 - Writing Best-Selling Makeup Brushes in Excel
+2016-07-13 17:09:47 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:09:47 INFO  Log:10 - key=>Best-Selling Eyebrow Pencils value=>/best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 17:09:51 INFO  Log:10 - Writing Best-Selling Eyebrow Pencils in Excel
+2016-07-13 17:09:51 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:09:51 INFO  Log:10 - key=>OIL-FREE FOUNDATION value=>/shop/makeup-and-perfume/foundation/Benefit,Sortby,Productsperpage/Oil-Free,ORIGINAL,100?id=53451
+2016-07-13 17:09:55 INFO  Log:10 - Writing OIL-FREE FOUNDATION in Excel
+2016-07-13 17:09:55 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:09:55 INFO  Log:10 - key=>Best-Selling Foundations for Oily Skin value=>/best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 17:10:00 INFO  Log:10 - Writing Best-Selling Foundations for Oily Skin in Excel
+2016-07-13 17:10:00 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:10:00 INFO  Log:10 - Getting data from Excel
+2016-07-13 17:10:00 INFO  Log:10 - Pagename:best-selling-index
+Legacy URL:http://www.macys.com/m/best-selling-makeup/index
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/index
+2016-07-13 17:10:00 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 17:10:12 INFO  Log:10 - pageType:"ca-contenthubs"
+2016-07-13 17:10:20 INFO  Log:10 - pageId:"seobestsellingbeauty.lp"
+2016-07-13 17:10:37 INFO  Log:10 - categoryID:"lp"
+2016-07-13 17:10:37 INFO  Log:10 - Pagetype,PageID and Category ID validation success...
+2016-07-13 17:10:37 INFO  Log:10 - Comparing html contents...
+2016-07-13 17:11:01 INFO  Log:10 - Legacy contents=>[From fresh new shades to must-have basics, we’ve gathered
+our top picks in makeup, brushes and beauty brands. Discover
+best-selling favorites, go-to colors and formulas, and the best
+matches for your skin tone and skin type to transform any look!]
+2016-07-13 17:11:01 INFO  Log:10 - Heroku contents=>[From fresh new shades to must-have basics, we’ve gathered
+our top picks in makeup, brushes and beauty brands. Discover
+best-selling favorites, go-to colors and formulas, and the best
+matches for your skin tone and skin type to transform any look!]
+2016-07-13 17:11:01 INFO  Log:10 - Compare html-success
+2016-07-13 17:11:01 INFO  Log:10 - reading the meta title
+2016-07-13 17:11:17 INFO  Log:10 - Validating the links in the page...
+2016-07-13 17:11:23 INFO  Log:10 - Getting links from page
+2016-07-13 17:11:23 INFO  Log:10 - /best-selling-makeup/best-selling-mascaras
+2016-07-13 17:11:23 INFO  Log:10 - /best-selling-makeup/best-selling-foundations
+2016-07-13 17:11:23 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 17:11:23 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 17:11:23 INFO  Log:10 - /best-selling-makeup/best-selling-lipsticks
+2016-07-13 17:11:23 INFO  Log:10 - /best-selling-makeup/best-selling-concealers
+2016-07-13 17:11:23 INFO  Log:10 - /best-selling-makeup/best-selling-eyeliners
+2016-07-13 17:11:23 INFO  Log:10 - /best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 17:11:23 INFO  Log:10 - /best-selling-makeup/best-selling-bb-creams
+2016-07-13 17:11:23 INFO  Log:10 - /best-selling-makeup/best-selling-cc-creams
+2016-07-13 17:11:23 INFO  Log:10 - /best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 17:11:23 INFO  Log:10 - /best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 17:11:23 INFO  Log:10 - /best-selling-makeup/best-selling-primers
+2016-07-13 17:11:23 INFO  Log:10 - /best-selling-makeup/best-selling-bronzers
+2016-07-13 17:11:23 INFO  Log:10 - /best-selling-makeup/best-selling-beauty-brands
+2016-07-13 17:11:37 INFO  Log:10 - key=>BEST-SELLING CONCEALERS value=>/best-selling-makeup/best-selling-concealers
+2016-07-13 17:11:42 INFO  Log:10 - Writing BEST-SELLING CONCEALERS in Excel
+2016-07-13 17:11:42 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:11:42 INFO  Log:10 - key=>BEST-SELLING EYEBROW PENCILS value=>/best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 17:11:46 INFO  Log:10 - Writing BEST-SELLING EYEBROW PENCILS in Excel
+2016-07-13 17:11:46 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:11:46 INFO  Log:10 - key=>BEST-SELLING PRIMERS value=>/best-selling-makeup/best-selling-primers
+2016-07-13 17:11:51 INFO  Log:10 - Writing BEST-SELLING PRIMERS in Excel
+2016-07-13 17:11:51 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:11:51 INFO  Log:10 - key=>BEST-SELLING MAKEUP BRUSHES value=>/best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 17:11:56 INFO  Log:10 - Writing BEST-SELLING MAKEUP BRUSHES in Excel
+2016-07-13 17:11:56 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:11:56 INFO  Log:10 - key=>BEST-SELLING BBS value=>/best-selling-makeup/best-selling-bb-creams
+2016-07-13 17:12:00 INFO  Log:10 - Writing BEST-SELLING BBS in Excel
+2016-07-13 17:12:00 INFO  Log:10 - Link redirection is not working
+2016-07-13 17:12:00 INFO  Log:10 - key=>BEST-SELLING CCS value=>/best-selling-makeup/best-selling-cc-creams
+2016-07-13 17:12:05 INFO  Log:10 - Writing BEST-SELLING CCS in Excel
+2016-07-13 17:12:05 INFO  Log:10 - Link redirection is not working
+2016-07-13 17:12:05 INFO  Log:10 - key=>BEST-SELLING FOUNDATIONS FOR DRY SKIN value=>/best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 17:12:10 INFO  Log:10 - Writing BEST-SELLING FOUNDATIONS FOR DRY SKIN in Excel
+2016-07-13 17:12:10 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:12:10 INFO  Log:10 - key=>BEST-SELLING BRONZERS value=>/best-selling-makeup/best-selling-bronzers
+2016-07-13 17:12:14 INFO  Log:10 - Writing BEST-SELLING BRONZERS in Excel
+2016-07-13 17:12:14 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:12:14 INFO  Log:10 - key=>BEST-SELLING LIPSTICKS value=>/best-selling-makeup/best-selling-lipsticks
+2016-07-13 17:12:19 INFO  Log:10 - Writing BEST-SELLING LIPSTICKS in Excel
+2016-07-13 17:12:19 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:12:19 INFO  Log:10 - key=>BEST-SELLING EYELASH CURLERS value=>/best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 17:12:24 INFO  Log:10 - Writing BEST-SELLING EYELASH CURLERS in Excel
+2016-07-13 17:12:24 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:12:24 INFO  Log:10 - key=>BEST-SELLING FOUNDATIONS FOR OILY SKIN value=>/best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 17:12:29 INFO  Log:10 - Writing BEST-SELLING FOUNDATIONS FOR OILY SKIN in Excel
+2016-07-13 17:12:29 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:12:29 INFO  Log:10 - key=>BEST-SELLING MASCARAS value=>/best-selling-makeup/best-selling-mascaras
+2016-07-13 17:12:33 INFO  Log:10 - Writing BEST-SELLING MASCARAS in Excel
+2016-07-13 17:12:33 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:12:33 INFO  Log:10 - key=>BEST-SELLING FOUNDATIONS value=>/best-selling-makeup/best-selling-foundations
+2016-07-13 17:12:38 INFO  Log:10 - Writing BEST-SELLING FOUNDATIONS in Excel
+2016-07-13 17:12:38 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:12:38 INFO  Log:10 - key=>BEST-SELLING EYELINERS value=>/best-selling-makeup/best-selling-eyeliners
+2016-07-13 17:12:42 INFO  Log:10 - Writing BEST-SELLING EYELINERS in Excel
+2016-07-13 17:12:42 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:12:42 INFO  Log:10 - key=>BEST-SELLING BEAUTY BRANDS value=>/best-selling-makeup/best-selling-beauty-brands
+2016-07-13 17:12:47 INFO  Log:10 - Writing BEST-SELLING BEAUTY BRANDS in Excel
+2016-07-13 17:12:47 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:12:47 INFO  Log:10 - Getting data from Excel
+2016-07-13 17:12:47 INFO  Log:10 - Pagename:best-selling-lipsticks
+Legacy URL:http://www.macys.com/m/best-selling-makeup/best-selling-lipsticks
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/best-selling-lipsticks
+2016-07-13 17:12:47 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 17:12:59 INFO  Log:10 - pageType:"seo"
+2016-07-13 17:13:10 INFO  Log:10 - pageId:"seobestsellingbeauty.lp"
+2016-07-13 17:13:18 INFO  Log:10 - categoryID:"lipsticks"
+2016-07-13 17:13:18 INFO  Log:10 - Pagetype,PageID and Category ID validation success...
+2016-07-13 17:13:18 INFO  Log:10 - Comparing html contents...
+2016-07-13 17:13:42 INFO  Log:10 - Legacy contents=>[Love lippies? Discover everything from the
+freshest formulas to longest-lasting shades
+with our top lipstick picks., SHOP LIPSTICK, Lancôme Color Design Sensational
+Effects Lipcolor – Matte, Intense color with a modern matte finish. Discover high-impact shades with a smooth, glide-on texture leaving the lips both moist and matte., MATTE LIPSTICK, Estée Lauder Pure Color Long
+Lasting Lipstick, Vivid color with maximum staying power. From sleek satin to lustrous shimmer finishes, find multidimensional shades with major lasting technology., LONGWEARING LIPSTICK]
+2016-07-13 17:13:42 INFO  Log:10 - Heroku contents=>[Love lippies? Discover everything from the
+freshest formulas to longest-lasting shades
+with our top lipstick picks., SHOP LIPSTICK, Lancôme Color Design Sensational
+Effects Lipcolor – Matte, Intense color with a modern matte finish. Discover high-impact shades with a smooth, glide-on texture leaving the lips both moist and matte., MATTE LIPSTICK, Estée Lauder Pure Color Long
+Lasting Lipstick, Vivid color with maximum staying power. From sleek satin to lustrous shimmer finishes, find multidimensional shades with major lasting technology., LONGWEARING LIPSTICK]
+2016-07-13 17:13:42 INFO  Log:10 - Compare html-success
+2016-07-13 17:13:42 INFO  Log:10 - reading the meta title
+2016-07-13 17:13:59 INFO  Log:10 - Validating the links in the page...
+2016-07-13 17:14:09 INFO  Log:10 - Getting links from page
+2016-07-13 17:14:09 INFO  Log:10 - /shop/makeup-and-perfume/lipstick?id=30555
+2016-07-13 17:14:09 INFO  Log:10 - /shop/featured/matte-lipstick
+2016-07-13 17:14:09 INFO  Log:10 - /shop/featured/long-lasting-lipstick
+2016-07-13 17:14:09 INFO  Log:10 - /best-selling-makeup/index
+2016-07-13 17:14:09 INFO  Log:10 - /best-selling-makeup/best-selling-mascaras
+2016-07-13 17:14:09 INFO  Log:10 - /best-selling-makeup/best-selling-foundations
+2016-07-13 17:14:09 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 17:14:09 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 17:14:09 INFO  Log:10 - /best-selling-makeup/best-selling-lipsticks
+2016-07-13 17:14:09 INFO  Log:10 - /best-selling-makeup/best-selling-concealers
+2016-07-13 17:14:09 INFO  Log:10 - /best-selling-makeup/best-selling-eyeliners
+2016-07-13 17:14:09 INFO  Log:10 - /best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 17:14:09 INFO  Log:10 - /best-selling-makeup/best-selling-bbs
+2016-07-13 17:14:09 INFO  Log:10 - /best-selling-makeup/best-selling-ccs
+2016-07-13 17:14:09 INFO  Log:10 - /best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 17:14:09 INFO  Log:10 - /best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 17:14:09 INFO  Log:10 - /best-selling-makeup/best-selling-primers
+2016-07-13 17:14:09 INFO  Log:10 - /best-selling-makeup/best-selling-bronzers
+2016-07-13 17:14:09 INFO  Log:10 - /best-selling-makeup/best-selling-beauty-brands
+2016-07-13 17:14:22 INFO  Log:10 - key=>Best-Selling Lipsticks value=>/best-selling-makeup/best-selling-lipsticks
+2016-07-13 17:14:27 INFO  Log:10 - Writing Best-Selling Lipsticks in Excel
+2016-07-13 17:14:27 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:14:27 INFO  Log:10 - key=>SHOP LIPSTICK value=>/shop/makeup-and-perfume/lipstick?id=30555
+2016-07-13 17:14:31 INFO  Log:10 - Writing SHOP LIPSTICK in Excel
+2016-07-13 17:14:31 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:14:31 INFO  Log:10 - key=>Best-Selling Foundations for Dry Skin value=>/best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 17:14:35 INFO  Log:10 - Writing Best-Selling Foundations for Dry Skin in Excel
+2016-07-13 17:14:35 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:14:35 INFO  Log:10 - key=>MATTE LIPSTICK value=>/shop/featured/matte-lipstick
+2016-07-13 17:14:40 INFO  Log:10 - Writing MATTE LIPSTICK in Excel
+2016-07-13 17:14:40 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:14:40 INFO  Log:10 - key=>Best-Selling Bronzers value=>/best-selling-makeup/best-selling-bronzers
+2016-07-13 17:14:45 INFO  Log:10 - Writing Best-Selling Bronzers in Excel
+2016-07-13 17:14:45 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:14:45 INFO  Log:10 - key=>Best-Selling Beauty Brands value=>/best-selling-makeup/best-selling-beauty-brands
+2016-07-13 17:14:50 INFO  Log:10 - Writing Best-Selling Beauty Brands in Excel
+2016-07-13 17:14:50 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:14:50 INFO  Log:10 - key=>Best-Selling Concealers value=>/best-selling-makeup/best-selling-concealers
+2016-07-13 17:14:55 INFO  Log:10 - Writing Best-Selling Concealers in Excel
+2016-07-13 17:14:55 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:14:55 INFO  Log:10 - key=>Best-Selling Eyeliners value=>/best-selling-makeup/best-selling-eyeliners
+2016-07-13 17:14:59 INFO  Log:10 - Writing Best-Selling Eyeliners in Excel
+2016-07-13 17:14:59 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:14:59 INFO  Log:10 - key=>Best-Selling Beauty Favorites value=>/best-selling-makeup/index
+2016-07-13 17:15:04 INFO  Log:10 - Writing Best-Selling Beauty Favorites in Excel
+2016-07-13 17:15:04 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:15:04 INFO  Log:10 - key=>Best-Selling Mascaras value=>/best-selling-makeup/best-selling-mascaras
+2016-07-13 17:15:09 INFO  Log:10 - Writing Best-Selling Mascaras in Excel
+2016-07-13 17:15:09 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:15:09 INFO  Log:10 - key=>Best-Selling Foundations value=>/best-selling-makeup/best-selling-foundations
+2016-07-13 17:15:13 INFO  Log:10 - Writing Best-Selling Foundations in Excel
+2016-07-13 17:15:13 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:15:13 INFO  Log:10 - key=>Best-Selling Eyelash Curlers value=>/best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 17:15:18 INFO  Log:10 - Writing Best-Selling Eyelash Curlers in Excel
+2016-07-13 17:15:18 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:15:18 INFO  Log:10 - key=>Best-Selling Primers value=>/best-selling-makeup/best-selling-primers
+2016-07-13 17:15:23 INFO  Log:10 - Writing Best-Selling Primers in Excel
+2016-07-13 17:15:23 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:15:23 INFO  Log:10 - key=>Best-Selling BBs value=>/best-selling-makeup/best-selling-bbs
+2016-07-13 17:15:28 INFO  Log:10 - Writing Best-Selling BBs in Excel
+2016-07-13 17:15:28 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:15:28 INFO  Log:10 - key=>Best-Selling CCs value=>/best-selling-makeup/best-selling-ccs
+2016-07-13 17:15:33 INFO  Log:10 - Writing Best-Selling CCs in Excel
+2016-07-13 17:15:33 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:15:33 INFO  Log:10 - key=>LONGWEARING LIPSTICK value=>/shop/featured/long-lasting-lipstick
+2016-07-13 17:15:37 INFO  Log:10 - Writing LONGWEARING LIPSTICK in Excel
+2016-07-13 17:15:37 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:15:37 INFO  Log:10 - key=>Best-Selling Makeup Brushes value=>/best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 17:15:42 INFO  Log:10 - Writing Best-Selling Makeup Brushes in Excel
+2016-07-13 17:15:42 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:15:42 INFO  Log:10 - key=>Best-Selling Eyebrow Pencils value=>/best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 17:15:47 INFO  Log:10 - Writing Best-Selling Eyebrow Pencils in Excel
+2016-07-13 17:15:47 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:15:47 INFO  Log:10 - key=>Best-Selling Foundations for Oily Skin value=>/best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 17:15:51 INFO  Log:10 - Writing Best-Selling Foundations for Oily Skin in Excel
+2016-07-13 17:15:51 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:15:51 INFO  Log:10 - Getting data from Excel
+2016-07-13 17:15:51 INFO  Log:10 - Pagename:best-selling-makeup-brushes
+Legacy URL:http://www.macys.com/m/best-selling-makeup/best-selling-makeup-brushes
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 17:15:51 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 17:16:02 INFO  Log:10 - pageType:"seo"
+2016-07-13 17:16:11 INFO  Log:10 - pageId:"seobestsellingbeauty.lp"
+2016-07-13 17:16:20 INFO  Log:10 - categoryID:"lp"
+2016-07-13 17:16:20 INFO  Log:10 - Pagetype,PageID and Category ID validation success...
+2016-07-13 17:16:20 INFO  Log:10 - Comparing html contents...
+2016-07-13 17:16:41 INFO  Log:10 - Legacy contents=>[Time to brush up on the basics! Our
+favorites in makeup brushes are sure
+to take your application techniques
+to new heights., SHOP MAKEUP BRUSHES, Core brushes for quick and easy application. This set includes six must-have pieces (three for face makeup and three for eye makeup) and a convenient carrying case—perfect for on the go!, From contouring to blending, this Lancôme brush collection has everything you need to flawlessly apply makeup like the pros. Discover essentials every makeup maven should have, as well as specific brushes for precise application., MAKEUP BRUSH SETS]
+2016-07-13 17:16:41 INFO  Log:10 - Heroku contents=>[Time to brush up on the basics! Our
+favorites in makeup brushes are sure
+to take your application techniques
+to new heights., SHOP MAKEUP BRUSHES, Core brushes for quick and easy application. This set includes six must-have pieces (three for face makeup and three for eye makeup) and a convenient carrying case—perfect for on the go!, From contouring to blending, this Lancôme brush collection has everything you need to flawlessly apply makeup like the pros. Discover essentials every makeup maven should have, as well as specific brushes for precise application., MAKEUP BRUSH SETS]
+2016-07-13 17:16:41 INFO  Log:10 - Compare html-success
+2016-07-13 17:16:41 INFO  Log:10 - reading the meta title
+2016-07-13 17:17:00 INFO  Log:10 - Validating the links in the page...
+2016-07-13 17:17:06 INFO  Log:10 - Getting links from page
+2016-07-13 17:17:06 INFO  Log:10 - /shop/makeup-and-perfume/makeup-brushes-and-makeup-bags?id=56285
+2016-07-13 17:17:06 INFO  Log:10 - /shop/featured/make-up-brush-set
+2016-07-13 17:17:06 INFO  Log:10 - /best-selling-makeup/index
+2016-07-13 17:17:06 INFO  Log:10 - /best-selling-makeup/best-selling-mascaras
+2016-07-13 17:17:06 INFO  Log:10 - /best-selling-makeup/best-selling-foundations
+2016-07-13 17:17:06 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 17:17:06 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 17:17:06 INFO  Log:10 - /best-selling-makeup/best-selling-lipsticks
+2016-07-13 17:17:06 INFO  Log:10 - /best-selling-makeup/best-selling-concealers
+2016-07-13 17:17:06 INFO  Log:10 - /best-selling-makeup/best-selling-eyeliners
+2016-07-13 17:17:06 INFO  Log:10 - /best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 17:17:06 INFO  Log:10 - /best-selling-makeup/best-selling-bbs
+2016-07-13 17:17:07 INFO  Log:10 - /best-selling-makeup/best-selling-ccs
+2016-07-13 17:17:07 INFO  Log:10 - /best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 17:17:07 INFO  Log:10 - /best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 17:17:07 INFO  Log:10 - /best-selling-makeup/best-selling-primers
+2016-07-13 17:17:07 INFO  Log:10 - /best-selling-makeup/best-selling-bronzers
+2016-07-13 17:17:07 INFO  Log:10 - /best-selling-makeup/best-selling-beauty-brands
+2016-07-13 17:17:20 INFO  Log:10 - key=>Best-Selling Lipsticks value=>/best-selling-makeup/best-selling-lipsticks
+2016-07-13 17:17:25 INFO  Log:10 - Writing Best-Selling Lipsticks in Excel
+2016-07-13 17:17:25 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:17:25 INFO  Log:10 - key=>Best-Selling Foundations for Dry Skin value=>/best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 17:17:30 INFO  Log:10 - Writing Best-Selling Foundations for Dry Skin in Excel
+2016-07-13 17:17:30 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:17:30 INFO  Log:10 - key=>Best-Selling Bronzers value=>/best-selling-makeup/best-selling-bronzers
+2016-07-13 17:17:34 INFO  Log:10 - Writing Best-Selling Bronzers in Excel
+2016-07-13 17:17:34 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:17:34 INFO  Log:10 - key=>Best-Selling Beauty Brands value=>/best-selling-makeup/best-selling-beauty-brands
+2016-07-13 17:17:39 INFO  Log:10 - Writing Best-Selling Beauty Brands in Excel
+2016-07-13 17:17:39 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:17:39 INFO  Log:10 - key=>Best-Selling Concealers value=>/best-selling-makeup/best-selling-concealers
+2016-07-13 17:17:43 INFO  Log:10 - Writing Best-Selling Concealers in Excel
+2016-07-13 17:17:43 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:17:43 INFO  Log:10 - key=>Best-Selling Eyeliners value=>/best-selling-makeup/best-selling-eyeliners
+2016-07-13 17:17:48 INFO  Log:10 - Writing Best-Selling Eyeliners in Excel
+2016-07-13 17:17:48 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:17:48 INFO  Log:10 - key=>Best-Selling Beauty Favorites value=>/best-selling-makeup/index
+2016-07-13 17:17:52 INFO  Log:10 - Writing Best-Selling Beauty Favorites in Excel
+2016-07-13 17:17:52 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:17:52 INFO  Log:10 - key=>Best-Selling Mascaras value=>/best-selling-makeup/best-selling-mascaras
+2016-07-13 17:17:57 INFO  Log:10 - Writing Best-Selling Mascaras in Excel
+2016-07-13 17:17:57 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:17:57 INFO  Log:10 - key=>Best-Selling Foundations value=>/best-selling-makeup/best-selling-foundations
+2016-07-13 17:18:01 INFO  Log:10 - Writing Best-Selling Foundations in Excel
+2016-07-13 17:18:01 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:18:01 INFO  Log:10 - key=>Best-Selling Eyelash Curlers value=>/best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 17:18:05 INFO  Log:10 - Writing Best-Selling Eyelash Curlers in Excel
+2016-07-13 17:18:05 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:18:05 INFO  Log:10 - key=>Best-Selling Primers value=>/best-selling-makeup/best-selling-primers
+2016-07-13 17:18:10 INFO  Log:10 - Writing Best-Selling Primers in Excel
+2016-07-13 17:18:10 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:18:10 INFO  Log:10 - key=>MAKEUP BRUSH SETS value=>/shop/featured/make-up-brush-set
+2016-07-13 17:18:14 INFO  Log:10 - Writing MAKEUP BRUSH SETS in Excel
+2016-07-13 17:18:14 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:18:14 INFO  Log:10 - key=>Best-Selling BBs value=>/best-selling-makeup/best-selling-bbs
+2016-07-13 17:18:19 INFO  Log:10 - Writing Best-Selling BBs in Excel
+2016-07-13 17:18:19 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:18:19 INFO  Log:10 - key=>Best-Selling CCs value=>/best-selling-makeup/best-selling-ccs
+2016-07-13 17:18:23 INFO  Log:10 - Writing Best-Selling CCs in Excel
+2016-07-13 17:18:23 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:18:23 INFO  Log:10 - key=>Best-Selling Makeup Brushes value=>/best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 17:18:27 INFO  Log:10 - Writing Best-Selling Makeup Brushes in Excel
+2016-07-13 17:18:28 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:18:28 INFO  Log:10 - key=>Best-Selling Eyebrow Pencils value=>/best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 17:18:32 INFO  Log:10 - Writing Best-Selling Eyebrow Pencils in Excel
+2016-07-13 17:18:32 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:18:32 INFO  Log:10 - key=>SHOP MAKEUP BRUSHES value=>/shop/makeup-and-perfume/makeup-brushes-and-makeup-bags?id=56285
+2016-07-13 17:18:36 INFO  Log:10 - Writing SHOP MAKEUP BRUSHES in Excel
+2016-07-13 17:18:36 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:18:36 INFO  Log:10 - key=>Best-Selling Foundations for Oily Skin value=>/best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 17:18:41 INFO  Log:10 - Writing Best-Selling Foundations for Oily Skin in Excel
+2016-07-13 17:18:41 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:18:41 INFO  Log:10 - Getting data from Excel
+2016-07-13 17:18:41 INFO  Log:10 - Pagename:best-selling-mascaras
+Legacy URL:http://www.macys.com/m/best-selling-makeup/best-selling-mascaras
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/best-selling-mascaras
+2016-07-13 17:18:41 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 17:18:55 INFO  Log:10 - pageType:"seo"
+2016-07-13 17:19:06 INFO  Log:10 - pageId:"seobestsellingbeauty.lp"
+2016-07-13 17:19:17 INFO  Log:10 - categoryID:"mascaras"
+2016-07-13 17:19:17 INFO  Log:10 - Pagetype,PageID and Category ID validation success...
+2016-07-13 17:19:17 INFO  Log:10 - Comparing html contents...
+2016-07-13 17:19:39 INFO  Log:10 - Legacy contents=>[Give your lashes some love—and the look of lift, length, volume or definition!
+Find an eye-opening look you’ll love from our selection of favorite mascaras., SHOP MASCARAS, Lancôme Définicils
+High Definition Mascara, Get perfectly defined lashes from root to tip. This best-selling formula helps to lengthen and outline with a unique, grooved-bristle brush., DEFINING MASCARA, Dior Iconic Overcurl
+Waterproof Mascara, Must-have volume and curl technology—in a waterproof formula! This iconic Diorshow mascara features the signature-curved brush for precise definition, volume and curl., WATERPROOF MASCARA, Dior Diorshow Mascara, Lashes for days. An oversized brush and a creamy, buildable formula make the perfect combo for a fluttering, false-lash look., LENGTHENING MASCARA, Too Faced Better Than Sex Mascara, Amp up your eye look with luscious lashes. A one-of-a-kind hourglass-shaped brush separates and helps plump the look of lashes with a longwearing, waterproof formula for all-day, showstopping drama., VOLUMIZING MASCARA, Lancôme Cils Booster XL
+Super-Enhancing Mascara Base, Boost your lashes with a mascara primer. This Lancôme favorite coats lashes with a conditioning base and helps to lengthen and thicken., MASCARA PRIMERS]
+2016-07-13 17:19:39 INFO  Log:10 - Heroku contents=>[Give your lashes some love—and the look of lift, length, volume or definition!
+Find an eye-opening look you’ll love from our selection of favorite mascaras., SHOP MASCARAS, Lancôme Définicils
+High Definition Mascara, Get perfectly defined lashes from root to tip. This best-selling formula helps to lengthen and outline with a unique, grooved-bristle brush., DEFINING MASCARA, Dior Iconic Overcurl
+Waterproof Mascara, Must-have volume and curl technology—in a waterproof formula! This iconic Diorshow mascara features the signature-curved brush for precise definition, volume and curl., WATERPROOF MASCARA, Dior Diorshow Mascara, Lashes for days. An oversized brush and a creamy, buildable formula make the perfect combo for a fluttering, false-lash look., LENGTHENING MASCARA, Too Faced Better Than Sex Mascara, Amp up your eye look with luscious lashes. A one-of-a-kind hourglass-shaped brush separates and helps plump the look of lashes with a longwearing, waterproof formula for all-day, showstopping drama., VOLUMIZING MASCARA, Lancôme Cils Booster XL
+Super-Enhancing Mascara Base, Boost your lashes with a mascara primer. This Lancôme favorite coats lashes with a conditioning base and helps to lengthen and thicken., MASCARA PRIMERS]
+2016-07-13 17:19:39 INFO  Log:10 - Compare html-success
+2016-07-13 17:19:39 INFO  Log:10 - reading the meta title
+2016-07-13 17:19:55 INFO  Log:10 - Validating the links in the page...
+2016-07-13 17:20:01 INFO  Log:10 - Getting links from page
+2016-07-13 17:20:01 INFO  Log:10 - /shop/makeup-and-perfume/mascara?id=53452
+2016-07-13 17:20:01 INFO  Log:10 - /shop/makeup-and-perfume/mascara/Mascara_effect,Sortby,Productsperpage/Defining,ORIGINAL,40?id=53452
+2016-07-13 17:20:01 INFO  Log:10 - /shop/featured/waterproof-mascara
+2016-07-13 17:20:01 INFO  Log:10 - /shop/makeup-and-perfume/mascara/Mascara_effect,Sortby,Productsperpage/Lengthening,ORIGINAL,100?id=53452
+2016-07-13 17:20:01 INFO  Log:10 - /shop/makeup-and-perfume/mascara/Mascara_effect,Sortby,Productsperpage/Volumizing,ORIGINAL,100?id=53452
+2016-07-13 17:20:01 INFO  Log:10 - /shop/featured/mascara-primer
+2016-07-13 17:20:01 INFO  Log:10 - /best-selling-makeup/index
+2016-07-13 17:20:01 INFO  Log:10 - /best-selling-makeup/best-selling-mascaras
+2016-07-13 17:20:01 INFO  Log:10 - /best-selling-makeup/best-selling-foundations
+2016-07-13 17:20:01 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 17:20:01 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 17:20:01 INFO  Log:10 - /best-selling-makeup/best-selling-lipsticks
+2016-07-13 17:20:01 INFO  Log:10 - /best-selling-makeup/best-selling-concealers
+2016-07-13 17:20:01 INFO  Log:10 - /best-selling-makeup/best-selling-eyeliners
+2016-07-13 17:20:01 INFO  Log:10 - /best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 17:20:01 INFO  Log:10 - /best-selling-makeup/best-selling-bbs
+2016-07-13 17:20:01 INFO  Log:10 - /best-selling-makeup/best-selling-ccs
+2016-07-13 17:20:01 INFO  Log:10 - /best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 17:20:01 INFO  Log:10 - /best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 17:20:01 INFO  Log:10 - /best-selling-makeup/best-selling-primers
+2016-07-13 17:20:01 INFO  Log:10 - /best-selling-makeup/best-selling-bronzers
+2016-07-13 17:20:01 INFO  Log:10 - /best-selling-makeup/best-selling-beauty-brands
+2016-07-13 17:20:12 INFO  Log:10 - key=>Best-Selling Lipsticks value=>/best-selling-makeup/best-selling-lipsticks
+2016-07-13 17:20:17 INFO  Log:10 - Writing Best-Selling Lipsticks in Excel
+2016-07-13 17:20:17 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:20:17 INFO  Log:10 - key=>MASCARA PRIMERS value=>/shop/featured/mascara-primer
+2016-07-13 17:20:21 INFO  Log:10 - Writing MASCARA PRIMERS in Excel
+2016-07-13 17:20:21 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:20:21 INFO  Log:10 - key=>Best-Selling Foundations for Dry Skin value=>/best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 17:20:26 INFO  Log:10 - Writing Best-Selling Foundations for Dry Skin in Excel
+2016-07-13 17:20:26 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:20:26 INFO  Log:10 - key=>Best-Selling Bronzers value=>/best-selling-makeup/best-selling-bronzers
+2016-07-13 17:20:31 INFO  Log:10 - Writing Best-Selling Bronzers in Excel
+2016-07-13 17:20:31 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:20:31 INFO  Log:10 - key=>Best-Selling Beauty Brands value=>/best-selling-makeup/best-selling-beauty-brands
+2016-07-13 17:20:35 INFO  Log:10 - Writing Best-Selling Beauty Brands in Excel
+2016-07-13 17:20:35 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:20:35 INFO  Log:10 - key=>Best-Selling Concealers value=>/best-selling-makeup/best-selling-concealers
+2016-07-13 17:20:40 INFO  Log:10 - Writing Best-Selling Concealers in Excel
+2016-07-13 17:20:40 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:20:40 INFO  Log:10 - key=>Best-Selling Eyeliners value=>/best-selling-makeup/best-selling-eyeliners
+2016-07-13 17:20:44 INFO  Log:10 - Writing Best-Selling Eyeliners in Excel
+2016-07-13 17:20:44 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:20:44 INFO  Log:10 - key=>Best-Selling Beauty Favorites value=>/best-selling-makeup/index
+2016-07-13 17:20:49 INFO  Log:10 - Writing Best-Selling Beauty Favorites in Excel
+2016-07-13 17:20:49 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:20:49 INFO  Log:10 - key=>Best-Selling Mascaras value=>/best-selling-makeup/best-selling-mascaras
+2016-07-13 17:20:53 INFO  Log:10 - Writing Best-Selling Mascaras in Excel
+2016-07-13 17:20:53 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:20:53 INFO  Log:10 - key=>Best-Selling Foundations value=>/best-selling-makeup/best-selling-foundations
+2016-07-13 17:20:58 INFO  Log:10 - Writing Best-Selling Foundations in Excel
+2016-07-13 17:20:58 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:20:58 INFO  Log:10 - key=>Best-Selling Eyelash Curlers value=>/best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 17:21:02 INFO  Log:10 - Writing Best-Selling Eyelash Curlers in Excel
+2016-07-13 17:21:02 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:21:02 INFO  Log:10 - key=>Best-Selling Primers value=>/best-selling-makeup/best-selling-primers
+2016-07-13 17:21:06 INFO  Log:10 - Writing Best-Selling Primers in Excel
+2016-07-13 17:21:07 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:21:07 INFO  Log:10 - key=>SHOP MASCARAS value=>/shop/makeup-and-perfume/mascara?id=53452
+2016-07-13 17:21:11 INFO  Log:10 - Writing SHOP MASCARAS in Excel
+2016-07-13 17:21:11 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:21:11 INFO  Log:10 - key=>WATERPROOF MASCARA value=>/shop/featured/waterproof-mascara
+2016-07-13 17:21:15 INFO  Log:10 - Writing WATERPROOF MASCARA in Excel
+2016-07-13 17:21:15 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:21:15 INFO  Log:10 - key=>Best-Selling BBs value=>/best-selling-makeup/best-selling-bbs
+2016-07-13 17:21:20 INFO  Log:10 - Writing Best-Selling BBs in Excel
+2016-07-13 17:21:20 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:21:20 INFO  Log:10 - key=>Best-Selling CCs value=>/best-selling-makeup/best-selling-ccs
+2016-07-13 17:21:24 INFO  Log:10 - Writing Best-Selling CCs in Excel
+2016-07-13 17:21:24 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:21:24 INFO  Log:10 - key=>DEFINING MASCARA value=>/shop/makeup-and-perfume/mascara/Mascara_effect,Sortby,Productsperpage/Defining,ORIGINAL,40?id=53452
+2016-07-13 17:21:29 INFO  Log:10 - Writing DEFINING MASCARA in Excel
+2016-07-13 17:21:29 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:21:29 INFO  Log:10 - key=>VOLUMIZING MASCARA value=>/shop/makeup-and-perfume/mascara/Mascara_effect,Sortby,Productsperpage/Volumizing,ORIGINAL,100?id=53452
+2016-07-13 17:21:33 INFO  Log:10 - Writing VOLUMIZING MASCARA in Excel
+2016-07-13 17:21:33 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:21:33 INFO  Log:10 - key=>Best-Selling Makeup Brushes value=>/best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 17:21:38 INFO  Log:10 - Writing Best-Selling Makeup Brushes in Excel
+2016-07-13 17:21:38 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:21:38 INFO  Log:10 - key=>Best-Selling Eyebrow Pencils value=>/best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 17:21:42 INFO  Log:10 - Writing Best-Selling Eyebrow Pencils in Excel
+2016-07-13 17:21:42 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:21:42 INFO  Log:10 - key=>LENGTHENING MASCARA value=>/shop/makeup-and-perfume/mascara/Mascara_effect,Sortby,Productsperpage/Lengthening,ORIGINAL,100?id=53452
+2016-07-13 17:21:47 INFO  Log:10 - Writing LENGTHENING MASCARA in Excel
+2016-07-13 17:21:47 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:21:47 INFO  Log:10 - key=>Best-Selling Foundations for Oily Skin value=>/best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 17:21:51 INFO  Log:10 - Writing Best-Selling Foundations for Oily Skin in Excel
+2016-07-13 17:21:51 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:21:51 INFO  Log:10 - Getting data from Excel
+2016-07-13 17:21:51 INFO  Log:10 - Pagename:best-selling-primers
+Legacy URL:http://www.macys.com/m/best-selling-makeup/best-selling-primers
+Heroku URL:http://desktop3.ce.mcomexternal1000.fds.com/ce/best-selling-makeup/best-selling-primers
+2016-07-13 17:21:51 INFO  Log:10 - Starting Pagetype,PageID and Category ID validation...
+2016-07-13 17:22:04 INFO  Log:10 - pageType:"seo"
+2016-07-13 17:22:17 INFO  Log:10 - pageId:"seobestsellingbeauty.lp"
+2016-07-13 17:22:28 INFO  Log:10 - categoryID:"primers"
+2016-07-13 17:22:28 INFO  Log:10 - Pagetype,PageID and Category ID validation success...
+2016-07-13 17:22:28 INFO  Log:10 - Comparing html contents...
+2016-07-13 17:22:50 INFO  Log:10 - Legacy contents=>[It’s prime time! Start any look with the perfect
+base. Check out our favorite primers for the
+face, eyes and lips in the formula perfect for
+your skin type or concerns., SHOP PRIMERS, For a smooth, satin-soft finish, go with this oil-free primer to help maintain a radiant complexion all day long. It’s a great longwearing formula for oily skin types., PRIMERS FOR OILY SKIN, Quench dry skin with this moisture-rich hydrating primer. This creamy gel primer helps maintain moisture while leaving a smooth canvas for foundation., PRIMERS FOR DRY SKIN, A balm base that’ll blow you away. One of our best-selling primers from Benefit, this refining primer leaves a silky, matte finish on the face and can be worn alone or with your go-to makeup., FACE PRIMERS, True, creaseless color. This long-lasting base is perfect for powder eye shadows, helping the color to apply smoothly and remain vibrant., EYESHADOW PRIMERS, One of our best-selling favorites, this signature Smashbox primer features light-diffusing properties for a photo-ready finish. It leaves a velvety-smooth surface for applying foundation., FOUNDATION PRIMERS, Urban Decay’s most popular Primer Potions now goes beyond eye makeup. Experience the priming power of this multitasking formula that’s perfect for the lips., LIP PRIMERS, Have normal/combination or oily skin? Help keep your complexion balanced with this oil-free, matifying primer—great for helping to control excess oil and reducing shine., MATTE PRIMERS]
+2016-07-13 17:22:50 INFO  Log:10 - Heroku contents=>[It’s prime time! Start any look with the perfect
+base. Check out our favorite primers for the
+face, eyes and lips in the formula perfect for
+your skin type or concerns., SHOP PRIMERS, For a smooth, satin-soft finish, go with this oil-free primer to help maintain a radiant complexion all day long. It’s a great longwearing formula for oily skin types., PRIMERS FOR OILY SKIN, Quench dry skin with this moisture-rich hydrating primer. This creamy gel primer helps maintain moisture while leaving a smooth canvas for foundation., PRIMERS FOR DRY SKIN, A balm base that’ll blow you away. One of our best-selling primers from Benefit, this refining primer leaves a silky, matte finish on the face and can be worn alone or with your go-to makeup., FACE PRIMERS, True, creaseless color. This long-lasting base is perfect for powder eye shadows, helping the color to apply smoothly and remain vibrant., EYESHADOW PRIMERS, One of our best-selling favorites, this signature Smashbox primer features light-diffusing properties for a photo-ready finish. It leaves a velvety-smooth surface for applying foundation., FOUNDATION PRIMERS, Urban Decay’s most popular Primer Potions now goes beyond eye makeup. Experience the priming power of this multitasking formula that’s perfect for the lips., LIP PRIMERS, Have normal/combination or oily skin? Help keep your complexion balanced with this oil-free, matifying primer—great for helping to control excess oil and reducing shine., MATTE PRIMERS]
+2016-07-13 17:22:50 INFO  Log:10 - Compare html-success
+2016-07-13 17:22:50 INFO  Log:10 - reading the meta title
+2016-07-13 17:23:04 INFO  Log:10 - Validating the links in the page...
+2016-07-13 17:23:10 INFO  Log:10 - Getting links from page
+2016-07-13 17:23:10 INFO  Log:10 - /shop/makeup-and-perfume/face-makeup/Face_category,Sortby,Productsperpage/Primer,ORIGINAL,40?id=30521
+2016-07-13 17:23:10 INFO  Log:10 - /shop/featured/primer-for-oily-skin
+2016-07-13 17:23:10 INFO  Log:10 - /shop/featured/primer-for-dry-skin
+2016-07-13 17:23:10 INFO  Log:10 - /shop/featured/face-primer
+2016-07-13 17:23:10 INFO  Log:10 - /shop/featured/eyeshadow-primer
+2016-07-13 17:23:10 INFO  Log:10 - /shop/featured/foundation-primer
+2016-07-13 17:23:10 INFO  Log:10 - /shop/featured/lip-primer
+2016-07-13 17:23:10 INFO  Log:10 - /shop/featured/matte-primer
+2016-07-13 17:23:10 INFO  Log:10 - /best-selling-makeup/index
+2016-07-13 17:23:10 INFO  Log:10 - /best-selling-makeup/best-selling-mascaras
+2016-07-13 17:23:10 INFO  Log:10 - /best-selling-makeup/best-selling-foundations
+2016-07-13 17:23:10 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 17:23:10 INFO  Log:10 - /best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 17:23:10 INFO  Log:10 - /best-selling-makeup/best-selling-lipsticks
+2016-07-13 17:23:10 INFO  Log:10 - /best-selling-makeup/best-selling-concealers
+2016-07-13 17:23:10 INFO  Log:10 - /best-selling-makeup/best-selling-eyeliners
+2016-07-13 17:23:10 INFO  Log:10 - /best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 17:23:10 INFO  Log:10 - /best-selling-makeup/best-selling-bbs
+2016-07-13 17:23:10 INFO  Log:10 - /best-selling-makeup/best-selling-ccs
+2016-07-13 17:23:10 INFO  Log:10 - /best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 17:23:10 INFO  Log:10 - /best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 17:23:10 INFO  Log:10 - /best-selling-makeup/best-selling-primers
+2016-07-13 17:23:10 INFO  Log:10 - /best-selling-makeup/best-selling-bronzers
+2016-07-13 17:23:10 INFO  Log:10 - /best-selling-makeup/best-selling-beauty-brands
+2016-07-13 17:23:20 INFO  Log:10 - key=>FACE PRIMERS value=>/shop/featured/face-primer
+2016-07-13 17:23:25 INFO  Log:10 - Writing FACE PRIMERS in Excel
+2016-07-13 17:23:25 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:23:25 INFO  Log:10 - key=>Best-Selling Lipsticks value=>/best-selling-makeup/best-selling-lipsticks
+2016-07-13 17:23:29 INFO  Log:10 - Writing Best-Selling Lipsticks in Excel
+2016-07-13 17:23:29 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:23:29 INFO  Log:10 - key=>PRIMERS FOR DRY SKIN value=>/shop/featured/primer-for-dry-skin
+2016-07-13 17:23:34 INFO  Log:10 - Writing PRIMERS FOR DRY SKIN in Excel
+2016-07-13 17:23:34 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:23:34 INFO  Log:10 - key=>Best-Selling Foundations for Dry Skin value=>/best-selling-makeup/best-selling-foundations-for-dry-skin
+2016-07-13 17:23:38 INFO  Log:10 - Writing Best-Selling Foundations for Dry Skin in Excel
+2016-07-13 17:23:38 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:23:38 INFO  Log:10 - key=>EYESHADOW PRIMERS value=>/shop/featured/eyeshadow-primer
+2016-07-13 17:23:42 INFO  Log:10 - Writing EYESHADOW PRIMERS in Excel
+2016-07-13 17:23:42 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:23:42 INFO  Log:10 - key=>Best-Selling Bronzers value=>/best-selling-makeup/best-selling-bronzers
+2016-07-13 17:23:46 INFO  Log:10 - Writing Best-Selling Bronzers in Excel
+2016-07-13 17:23:46 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:23:46 INFO  Log:10 - key=>Best-Selling Beauty Brands value=>/best-selling-makeup/best-selling-beauty-brands
+2016-07-13 17:23:51 INFO  Log:10 - Writing Best-Selling Beauty Brands in Excel
+2016-07-13 17:23:51 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:23:51 INFO  Log:10 - key=>FOUNDATION PRIMERS value=>/shop/featured/foundation-primer
+2016-07-13 17:23:55 INFO  Log:10 - Writing FOUNDATION PRIMERS in Excel
+2016-07-13 17:23:55 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:23:55 INFO  Log:10 - key=>Best-Selling Concealers value=>/best-selling-makeup/best-selling-concealers
+2016-07-13 17:23:59 INFO  Log:10 - Writing Best-Selling Concealers in Excel
+2016-07-13 17:23:59 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:23:59 INFO  Log:10 - key=>Best-Selling Eyeliners value=>/best-selling-makeup/best-selling-eyeliners
+2016-07-13 17:24:04 INFO  Log:10 - Writing Best-Selling Eyeliners in Excel
+2016-07-13 17:24:04 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:24:04 INFO  Log:10 - key=>Best-Selling Beauty Favorites value=>/best-selling-makeup/index
+2016-07-13 17:24:08 INFO  Log:10 - Writing Best-Selling Beauty Favorites in Excel
+2016-07-13 17:24:08 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:24:08 INFO  Log:10 - key=>Best-Selling Mascaras value=>/best-selling-makeup/best-selling-mascaras
+2016-07-13 17:24:12 INFO  Log:10 - Writing Best-Selling Mascaras in Excel
+2016-07-13 17:24:12 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:24:12 INFO  Log:10 - key=>Best-Selling Foundations value=>/best-selling-makeup/best-selling-foundations
+2016-07-13 17:24:17 INFO  Log:10 - Writing Best-Selling Foundations in Excel
+2016-07-13 17:24:17 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:24:17 INFO  Log:10 - key=>SHOP PRIMERS value=>/shop/makeup-and-perfume/face-makeup/Face_category,Sortby,Productsperpage/Primer,ORIGINAL,40?id=30521
+2016-07-13 17:24:21 INFO  Log:10 - Writing SHOP PRIMERS in Excel
+2016-07-13 17:24:21 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:24:21 INFO  Log:10 - key=>LIP PRIMERS value=>/shop/featured/lip-primer
+2016-07-13 17:24:25 INFO  Log:10 - Writing LIP PRIMERS in Excel
+2016-07-13 17:24:25 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:24:25 INFO  Log:10 - key=>Best-Selling Eyelash Curlers value=>/best-selling-makeup/best-selling-eyelash-curlers
+2016-07-13 17:24:30 INFO  Log:10 - Writing Best-Selling Eyelash Curlers in Excel
+2016-07-13 17:24:30 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:24:30 INFO  Log:10 - key=>Best-Selling Primers value=>/best-selling-makeup/best-selling-primers
+2016-07-13 17:24:34 INFO  Log:10 - Writing Best-Selling Primers in Excel
+2016-07-13 17:24:34 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:24:34 INFO  Log:10 - key=>MATTE PRIMERS value=>/shop/featured/matte-primer
+2016-07-13 17:24:39 INFO  Log:10 - Writing MATTE PRIMERS in Excel
+2016-07-13 17:24:39 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:24:39 INFO  Log:10 - key=>Best-Selling BBs value=>/best-selling-makeup/best-selling-bbs
+2016-07-13 17:24:43 INFO  Log:10 - Writing Best-Selling BBs in Excel
+2016-07-13 17:24:43 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:24:43 INFO  Log:10 - key=>Best-Selling CCs value=>/best-selling-makeup/best-selling-ccs
+2016-07-13 17:24:48 INFO  Log:10 - Writing Best-Selling CCs in Excel
+2016-07-13 17:24:48 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:24:48 INFO  Log:10 - key=>PRIMERS FOR OILY SKIN value=>/shop/featured/primer-for-oily-skin
+2016-07-13 17:24:52 INFO  Log:10 - Writing PRIMERS FOR OILY SKIN in Excel
+2016-07-13 17:24:52 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:24:52 INFO  Log:10 - key=>Best-Selling Makeup Brushes value=>/best-selling-makeup/best-selling-makeup-brushes
+2016-07-13 17:24:57 INFO  Log:10 - Writing Best-Selling Makeup Brushes in Excel
+2016-07-13 17:24:57 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:24:57 INFO  Log:10 - key=>Best-Selling Eyebrow Pencils value=>/best-selling-makeup/best-selling-eyebrow-pencils
+2016-07-13 17:25:01 INFO  Log:10 - Writing Best-Selling Eyebrow Pencils in Excel
+2016-07-13 17:25:01 INFO  Log:10 - Link rediretcion is success
+2016-07-13 17:25:01 INFO  Log:10 - key=>Best-Selling Foundations for Oily Skin value=>/best-selling-makeup/best-selling-foundations-for-oily-skin
+2016-07-13 17:25:06 INFO  Log:10 - Writing Best-Selling Foundations for Oily Skin in Excel
+2016-07-13 17:25:06 INFO  Log:10 - Link rediretcion is success
