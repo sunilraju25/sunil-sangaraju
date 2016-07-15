@@ -74,8 +74,14 @@ public class BestSelling extends CommonMethods {
       Log.info("reading the meta title");
       Assert.assertTrue(BS.metatitle(testdata));
       
+      Log.info("Validating meta description and meta keywords...");
+      Assert.assertTrue(BS.metavalidation(testdata));
+      
       Log.info("Validating the links in the page...");		        
 	  BS.getlinksfrompage(testdata);
+	  
+	  Assert.assertTrue(BS.metavalidation(testdata));
+      Log.info("Validation completed for Meta Discription");
   }
   
   @Test
@@ -96,6 +102,9 @@ public class BestSelling extends CommonMethods {
       
       Log.info("Validating the links in the page...");		        
 	  BS.getlinksfrompage(testdata);
+	  
+	  Assert.assertTrue(BS.metavalidation(testdata));
+      Log.info("Validation completed for Meta Discription");
   }
 
   @Test
@@ -116,6 +125,9 @@ public class BestSelling extends CommonMethods {
       
       Log.info("Validating the links in the page...");		        
 	  BS.getlinksfrompage(testdata);
+	  
+	  Assert.assertTrue(BS.metavalidation(testdata));
+      Log.info("Validation completed for Meta Discription");
   }
 
   @Test
@@ -136,6 +148,9 @@ public class BestSelling extends CommonMethods {
       
       Log.info("Validating the links in the page...");		        
 	  BS.getlinksfrompage(testdata);
+	  
+	  Assert.assertTrue(BS.metavalidation(testdata));
+      Log.info("Validation completed for Meta Discription");
   }
 
   @Test
@@ -156,6 +171,9 @@ public class BestSelling extends CommonMethods {
       
       Log.info("Validating the links in the page...");		        
 	  BS.getlinksfrompage(testdata);
+	  
+	  Assert.assertTrue(BS.metavalidation(testdata));
+      Log.info("Validation completed for Meta Discription");
   }
 
   @Test
@@ -176,6 +194,9 @@ public class BestSelling extends CommonMethods {
       
       Log.info("Validating the links in the page...");		        
 	  BS.getlinksfrompage(testdata);
+	  
+	  Assert.assertTrue(BS.metavalidation(testdata));
+      Log.info("Validation completed for Meta Discription");
   }
 
   @Test
@@ -192,10 +213,14 @@ public class BestSelling extends CommonMethods {
       Log.info("Compare html-success");
       
       Log.info("reading the meta title");
-      Assert.assertTrue(BS.metatitle(testdata));
+      Assert.assertTrue(BS.metatitle(testdata));   
+      
       
       Log.info("Validating the links in the page...");		        
 	  BS.getlinksfrompage(testdata);
+	  
+	  Assert.assertTrue(BS.metavalidation(testdata));
+      Log.info("Validation completed for Meta Discription");
   }
 
   @Test
@@ -216,6 +241,9 @@ public class BestSelling extends CommonMethods {
       
       Log.info("Validating the links in the page...");		        
 	  BS.getlinksfrompage(testdata);
+	  
+	  Assert.assertTrue(BS.metavalidation(testdata));
+      Log.info("Validation completed for Meta Discription");
   }
 
   @Test
@@ -236,6 +264,9 @@ public class BestSelling extends CommonMethods {
       
       Log.info("Validating the links in the page...");		        
 	  BS.getlinksfrompage(testdata);
+	  
+	  Assert.assertTrue(BS.metavalidation(testdata));
+      Log.info("Validation completed for Meta Discription");
   }
 
   @Test
@@ -256,6 +287,9 @@ public class BestSelling extends CommonMethods {
       
       Log.info("Validating the links in the page...");		        
 	  BS.getlinksfrompage(testdata);
+	  
+	  Assert.assertTrue(BS.metavalidation(testdata));
+      Log.info("Validation completed for Meta Discription");
   }
 
   @Test
@@ -276,6 +310,9 @@ public class BestSelling extends CommonMethods {
       
       Log.info("Validating the links in the page...");		        
 	  BS.getlinksfrompage(testdata);
+	  
+	  Assert.assertTrue(BS.metavalidation(testdata));
+      Log.info("Validation completed for Meta Discription");
   }
 
   @Test
@@ -296,6 +333,9 @@ public class BestSelling extends CommonMethods {
       
       Log.info("Validating the links in the page...");		        
 	  BS.getlinksfrompage(testdata);
+	  
+	  Assert.assertTrue(BS.metavalidation(testdata));
+      Log.info("Validation completed for Meta Discription");
   }
 
   @Test
@@ -316,6 +356,9 @@ public class BestSelling extends CommonMethods {
       
       Log.info("Validating the links in the page...");		        
 	  BS.getlinksfrompage(testdata);
+	  
+	  Assert.assertTrue(BS.metavalidation(testdata));
+      Log.info("Validation completed for Meta Discription");
   }
   
   @Test
@@ -336,6 +379,9 @@ public class BestSelling extends CommonMethods {
       
       Log.info("Validating the links in the page...");		        
 	  BS.getlinksfrompage(testdata);
+	  
+	  Assert.assertTrue(BS.metavalidation(testdata));
+      Log.info("Validation completed for Meta Discription");
   }
 
 }

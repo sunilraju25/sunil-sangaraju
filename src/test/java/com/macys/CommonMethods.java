@@ -19,6 +19,8 @@ public class CommonMethods {
 	WebDriver driver,driver1;
 	String filepath;
 	
+	String metaDesc = "//meta[@name='description']";
+	
 	public CommonMethods(String filepath){
 		this.filepath = filepath;
 	}
@@ -144,7 +146,7 @@ public class CommonMethods {
 		driver1.get(testdata.get(2));
 		driver1.manage().window().maximize();
 		Thread.sleep(1000);
-		
+				
 		List<WebElement> allTextElement = driver.findElements(By.xpath("//div[@id='bd']//p"));
 		ArrayList<String> sourcePage = new ArrayList<String>();
 		ArrayList<String> destPage = new ArrayList<String>();
@@ -177,6 +179,26 @@ public class CommonMethods {
 		wait_for_page_load(20);
 		return driver.getTitle().equals(driver1.getTitle());
 		
+	}
+	
+	public Boolean metavalidation(List<String> testdata) throws InterruptedException{
+		driver.get(testdata.get(1));
+		driver.manage().window().maximize();
+		wait_for_page_load(20);
+		driver1.get(testdata.get(2));
+		driver1.manage().window().maximize();
+		wait_for_page_load(20);
+		
+		String desc = driver.findElement(By.xpath(metaDesc)).getAttribute("Content");
+		 
+		if(desc != null){			
+			return desc.equals(driver1.findElement(By.xpath(metaDesc)).getAttribute("Content"));			
+		}
+		else{
+			Log.info("No meta description for this page");
+			return true;
+		}
+				
 	}
 
 }
