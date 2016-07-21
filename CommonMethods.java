@@ -51,8 +51,6 @@ public class CommonMethods {
 		driver.manage().window().maximize();
 		Log.info("Getting links from page");
 		for (WebElement we : sourcePageLinks) {
-			String linkpath = we.getAttribute("href");
-			if(linkpath != null){
 			if(we.getAttribute("href").contains(".com/m")){
 			relative_url = we.getAttribute("href").split(".com/m");
 			links.put(we.getText(), relative_url[1]);
@@ -69,7 +67,7 @@ public class CommonMethods {
 			}
 			
 				
-		}}
+		}
         //driver.quit();
 		compareURLwithdest(pagedetails, destURL, links);
 
@@ -142,32 +140,14 @@ public class CommonMethods {
 	}
 	
 	public Boolean comparehtml(List<String> testdata) throws InterruptedException{
-		String xpath;
+		
 		driver.get(testdata.get(1));
 		driver.manage().window().maximize();
 		driver1.get(testdata.get(2));
 		driver1.manage().window().maximize();
 		Thread.sleep(1000);
-		
-		String url = testdata.get(1);
-		String data[] = url.split("/");
-		
-		if (data[4].equals("mattress-buying-guide")){
-			 xpath = "//div[@id='bd']//strong/..";
-		}
-		else if(data[4].equals("store")){
-			xpath = "//div[@class='sectionCopy']";
-		}
-		else if (data[5].equals("2015-spring-fashion-trends")) {
-			xpath="//div[@class='springfashion-sectionRow']";
-		}
-		
-		else{
-		   xpath = 	"//div[@id='bd']//p";
-		}
-	
 				
-		List<WebElement> allTextElement = driver.findElements(By.xpath(xpath));
+		List<WebElement> allTextElement = driver.findElements(By.xpath("//div[@id='bd']//p"));
 		ArrayList<String> sourcePage = new ArrayList<String>();
 		ArrayList<String> destPage = new ArrayList<String>();
 		
@@ -176,22 +156,17 @@ public class CommonMethods {
 			
 		}
 		
-		List<WebElement> destPage1 = driver1.findElements(By.xpath(xpath));
+		List<WebElement> destPage1 = driver1.findElements(By.xpath("//div[@id='bd']//p"));
 		
 		for(WebElement we1:destPage1){
-			destPage.add(we1.getText());			
+			destPage.add(we1.getText());
+			
 		}
 		
 		Log.info("Legacy contents=>" + sourcePage);
 		Log.info("Heroku contents=>" + destPage);
 		
-		if((sourcePage.isEmpty()) || (destPage.isEmpty())){
-			Log.info("Please check the content/xpath of this page");
-			return false;
-		}
-		else{
-		   return sourcePage.equals(destPage);
-		}
+		return sourcePage.equals(destPage);
 		
 	}
 	
@@ -201,7 +176,9 @@ public class CommonMethods {
 		wait_for_page_load(20);
 		driver1.get(testdata.get(2));
 		driver1.manage().window().maximize();
-		wait_for_page_load(20);
+		wait_for_page_load(20);	
+		Log.info("Legacy Meta Titile : "+driver.getTitle());
+		Log.info("Heroku Meta Titile : "+driver1.getTitle());
 		return driver.getTitle().equals(driver1.getTitle());
 		
 	}
@@ -213,22 +190,18 @@ public class CommonMethods {
 		driver1.get(testdata.get(2));
 		driver1.manage().window().maximize();
 		wait_for_page_load(20);
-		String desc;
 		
-		if(isElementPresent(metaDesc)){
-		   desc = driver.findElement(By.xpath(metaDesc)).getAttribute("Content");
-		   return desc.equals(driver1.findElement(By.xpath(metaDesc)).getAttribute("Content"));
+		String desc = driver.findElement(By.xpath(metaDesc)).getAttribute("Content");
+		Log.info("Legacy Description : "+desc);
+		Log.info("Heroku Description : "+driver1.findElement(By.xpath(metaDesc)).getAttribute("Content"));
+		if(desc != null){			
+			return desc.equals(driver1.findElement(By.xpath(metaDesc)).getAttribute("Content"));			
 		}
 		else{
 			Log.info("No meta description for this page");
 			return true;
 		}
 				
-	}
-	
-	public Boolean isElementPresent(String xpath){
-		
-		return driver.findElements(By.xpath(xpath)).size()>0;
 	}
 
 }
