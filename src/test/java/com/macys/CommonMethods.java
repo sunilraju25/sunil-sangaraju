@@ -196,13 +196,22 @@ public class CommonMethods {
 	}
 	
 	public Boolean metatitle(List<String> testdata) throws InterruptedException{
+		String legacy_meta_title,heroku_meta_title;
 		driver.get(testdata.get(1));
 		driver.manage().window().maximize();
 		wait_for_page_load(20);
 		driver1.get(testdata.get(2));
 		driver1.manage().window().maximize();
 		wait_for_page_load(20);
-		return driver.getTitle().equals(driver1.getTitle());
+		
+		//legacy_meta_title = driver.getTitle();
+		//heroku_meta_title = driver1.getTitle();
+		
+		legacy_meta_title = CheckSpecialchar(driver.getTitle());
+		heroku_meta_title = CheckSpecialchar(driver1.getTitle());		
+		Log.info("Legacy meta title => " + driver.getTitle());
+		Log.info("Heroku meta title => " + driver1.getTitle());
+		return legacy_meta_title.equals(heroku_meta_title);
 		
 	}
 	
@@ -213,11 +222,16 @@ public class CommonMethods {
 		driver1.get(testdata.get(2));
 		driver1.manage().window().maximize();
 		wait_for_page_load(20);
-		String desc;
+		String desc,source;
 		
 		if(isElementPresent(metaDesc)){
 		   desc = driver.findElement(By.xpath(metaDesc)).getAttribute("Content");
-		   return desc.equals(driver1.findElement(By.xpath(metaDesc)).getAttribute("Content"));
+		   source = driver1.findElement(By.xpath(metaDesc)).getAttribute("Content");		   
+		   desc = CheckSpecialchar(desc);
+		   source = CheckSpecialchar(source);
+		   Log.info("Legacy meta description => " + desc);
+		   Log.info("Heroku meta description => " + source);
+		   return desc.equals(source);
 		}
 		else{
 			Log.info("No meta description for this page");
@@ -229,6 +243,13 @@ public class CommonMethods {
 	public Boolean isElementPresent(String xpath){
 		
 		return driver.findElements(By.xpath(xpath)).size()>0;
+	}
+	
+	public String CheckSpecialchar(String s){
+		s = s.replaceAll("&#x27;","'");
+		s = s.replaceAll("&amp;","&");
+		return s;	
+		
 	}
 
 }
